@@ -1,0 +1,2001 @@
+Order ID,Date,Customer Name,Product Name,Category,Quantity,Price,Total Sales,Gender
+100001,01-01-2024,Customer_13,T-Shirt,Fashion,5,1200,6000,Female
+100002,01-01-2024,Customer_139,Microwave,Home Appliances,4,12000,48000,Male
+100003,01-01-2024,Customer_228,Mobile,Electronics,2,15000,30000,Male
+100004,01-01-2024,Customer_295,Shoes,Fashion,3,3000,9000,Male
+100005,01-01-2024,Customer_29,Shoes,Fashion,1,3000,3000,Male
+100006,01-01-2024,Customer_350,Shoes,Fashion,1,3000,3000,Female
+100007,01-01-2024,Customer_256,Jeans,Fashion,3,2500,7500,Male
+100008,01-01-2024,Customer_82,Microwave,Home Appliances,5,12000,60000,Female
+100009,01-01-2024,Customer_321,Mobile,Electronics,1,15000,15000,Male
+100010,01-01-2024,Customer_253,Jeans,Fashion,3,2500,7500,Female
+100011,01-01-2024,Customer_18,Laptop,Electronics,3,55000,165000,Male
+100012,01-01-2024,Customer_106,Jeans,Fashion,4,2500,10000,Female
+100013,02-01-2024,Customer_254,Shoes,Fashion,5,3000,15000,Male
+100014,02-01-2024,Customer_323,Mixer Grinder,Home Appliances,1,4500,4500,Male
+100015,02-01-2024,Customer_181,T-Shirt,Fashion,2,1200,2400,Female
+100016,02-01-2024,Customer_176,Book,Stationery,5,500,2500,Male
+100017,02-01-2024,Customer_219,Mobile,Electronics,1,15000,15000,Male
+100018,02-01-2024,Customer_197,Headphones,Electronics,4,2500,10000,Female
+100019,02-01-2024,Customer_16,Shoes,Fashion,4,3000,12000,Female
+100020,02-01-2024,Customer_65,Laptop,Electronics,3,55000,165000,Male
+100021,02-01-2024,Customer_145,Mixer Grinder,Home Appliances,2,4500,9000,Male
+100022,03-01-2024,Customer_271,Jeans,Fashion,5,2500,12500,Male
+100023,03-01-2024,Customer_144,Laptop,Electronics,3,55000,165000,Male
+100024,03-01-2024,Customer_251,Washing Machine,Home Appliances,4,22000,88000,Female
+100025,03-01-2024,Customer_150,Book,Stationery,3,500,1500,Male
+100026,03-01-2024,Customer_46,Book,Stationery,2,500,1000,Male
+100027,03-01-2024,Customer_7,Book,Stationery,5,500,2500,Female
+100028,03-01-2024,Customer_139,Book,Stationery,5,500,2500,Female
+100029,03-01-2024,Customer_350,Headphones,Electronics,5,2500,12500,Female
+100030,03-01-2024,Customer_202,Shoes,Fashion,3,3000,9000,Male
+100031,03-01-2024,Customer_93,Headphones,Electronics,4,2500,10000,Female
+100032,03-01-2024,Customer_93,Shoes,Fashion,1,3000,3000,Male
+100033,03-01-2024,Customer_64,Shoes,Fashion,3,3000,9000,Female
+100034,03-01-2024,Customer_96,T-Shirt,Fashion,2,1200,2400,Female
+100035,03-01-2024,Customer_294,Jeans,Fashion,3,2500,7500,Female
+100036,03-01-2024,Customer_207,Microwave,Home Appliances,2,12000,24000,Male
+100037,03-01-2024,Customer_252,Book,Stationery,4,500,2000,Female
+100038,03-01-2024,Customer_42,Headphones,Electronics,4,2500,10000,Male
+100039,03-01-2024,Customer_259,Mixer Grinder,Home Appliances,3,4500,13500,Male
+100040,03-01-2024,Customer_151,Book,Stationery,1,500,500,Male
+100041,04-01-2024,Customer_204,Mixer Grinder,Home Appliances,4,4500,18000,Male
+100042,04-01-2024,Customer_242,Washing Machine,Home Appliances,1,22000,22000,Female
+100043,04-01-2024,Customer_285,Headphones,Electronics,1,2500,2500,Male
+100044,04-01-2024,Customer_96,Mixer Grinder,Home Appliances,3,4500,13500,Female
+100045,04-01-2024,Customer_203,Mobile,Electronics,4,15000,60000,Female
+100046,04-01-2024,Customer_201,T-Shirt,Fashion,5,1200,6000,Female
+100047,04-01-2024,Customer_347,Mobile,Electronics,4,15000,60000,Female
+100048,05-01-2024,Customer_314,Jeans,Fashion,1,2500,2500,Male
+100049,05-01-2024,Customer_273,Laptop,Electronics,3,55000,165000,Male
+100050,05-01-2024,Customer_2,Shoes,Fashion,1,3000,3000,Male
+100051,05-01-2024,Customer_41,Washing Machine,Home Appliances,3,22000,66000,Male
+100052,05-01-2024,Customer_256,T-Shirt,Fashion,3,1200,3600,Female
+100053,05-01-2024,Customer_88,Laptop,Electronics,1,55000,55000,Female
+100054,05-01-2024,Customer_302,Laptop,Electronics,3,55000,165000,Male
+100055,05-01-2024,Customer_308,Microwave,Home Appliances,5,12000,60000,Female
+100056,05-01-2024,Customer_254,Mobile,Electronics,1,15000,15000,Male
+100057,05-01-2024,Customer_139,Headphones,Electronics,4,2500,10000,Female
+100058,05-01-2024,Customer_222,Laptop,Electronics,2,55000,110000,Female
+100059,05-01-2024,Customer_86,Book,Stationery,3,500,1500,Male
+100060,05-01-2024,Customer_142,Microwave,Home Appliances,4,12000,48000,Female
+100061,05-01-2024,Customer_331,Laptop,Electronics,2,55000,110000,Female
+100062,06-01-2024,Customer_29,Jeans,Fashion,4,2500,10000,Male
+100063,06-01-2024,Customer_317,T-Shirt,Fashion,4,1200,4800,Male
+100064,06-01-2024,Customer_12,Mobile,Electronics,5,15000,75000,Male
+100065,06-01-2024,Customer_231,T-Shirt,Fashion,3,1200,3600,Female
+100066,06-01-2024,Customer_201,Headphones,Electronics,3,2500,7500,Male
+100067,06-01-2024,Customer_64,Headphones,Electronics,5,2500,12500,Female
+100068,06-01-2024,Customer_151,T-Shirt,Fashion,4,1200,4800,Male
+100069,06-01-2024,Customer_282,Shoes,Fashion,2,3000,6000,Female
+100070,07-01-2024,Customer_114,Mobile,Electronics,5,15000,75000,Male
+100071,07-01-2024,Customer_113,Headphones,Electronics,4,2500,10000,Female
+100072,07-01-2024,Customer_213,Washing Machine,Home Appliances,5,22000,110000,Female
+100073,07-01-2024,Customer_189,Mobile,Electronics,1,15000,15000,Male
+100074,07-01-2024,Customer_305,Jeans,Fashion,5,2500,12500,Female
+100075,07-01-2024,Customer_167,Mobile,Electronics,2,15000,30000,Female
+100076,07-01-2024,Customer_131,Mobile,Electronics,5,15000,75000,Female
+100077,07-01-2024,Customer_192,Jeans,Fashion,2,2500,5000,Female
+100078,08-01-2024,Customer_279,Washing Machine,Home Appliances,5,22000,110000,Female
+100079,08-01-2024,Customer_270,Shoes,Fashion,3,3000,9000,Female
+100080,08-01-2024,Customer_307,Washing Machine,Home Appliances,4,22000,88000,Male
+100081,08-01-2024,Customer_301,Laptop,Electronics,3,55000,165000,Male
+100082,08-01-2024,Customer_42,Shoes,Fashion,4,3000,12000,Female
+100083,08-01-2024,Customer_173,Headphones,Electronics,1,2500,2500,Female
+100084,08-01-2024,Customer_106,Microwave,Home Appliances,4,12000,48000,Male
+100085,08-01-2024,Customer_98,Mixer Grinder,Home Appliances,4,4500,18000,Female
+100086,08-01-2024,Customer_193,T-Shirt,Fashion,5,1200,6000,Female
+100087,08-01-2024,Customer_39,Laptop,Electronics,5,55000,275000,Female
+100088,08-01-2024,Customer_76,Washing Machine,Home Appliances,4,22000,88000,Male
+100089,08-01-2024,Customer_107,Book,Stationery,3,500,1500,Male
+100090,08-01-2024,Customer_153,Shoes,Fashion,3,3000,9000,Female
+100091,08-01-2024,Customer_274,T-Shirt,Fashion,1,1200,1200,Male
+100092,08-01-2024,Customer_119,Washing Machine,Home Appliances,3,22000,66000,Male
+100093,08-01-2024,Customer_102,Shoes,Fashion,5,3000,15000,Female
+100094,09-01-2024,Customer_248,Washing Machine,Home Appliances,2,22000,44000,Male
+100095,09-01-2024,Customer_84,Book,Stationery,1,500,500,Male
+100096,09-01-2024,Customer_88,Mobile,Electronics,1,15000,15000,Female
+100097,09-01-2024,Customer_8,Washing Machine,Home Appliances,1,22000,22000,Female
+100098,09-01-2024,Customer_85,Jeans,Fashion,5,2500,12500,Female
+100099,09-01-2024,Customer_234,Headphones,Electronics,4,2500,10000,Female
+100100,09-01-2024,Customer_250,Jeans,Fashion,5,2500,12500,Female
+100101,09-01-2024,Customer_332,Mixer Grinder,Home Appliances,1,4500,4500,Male
+100102,09-01-2024,Customer_177,Microwave,Home Appliances,2,12000,24000,Female
+100103,09-01-2024,Customer_321,Jeans,Fashion,4,2500,10000,Female
+100104,09-01-2024,Customer_20,Book,Stationery,1,500,500,Female
+100105,09-01-2024,Customer_35,Washing Machine,Home Appliances,1,22000,22000,Male
+100106,09-01-2024,Customer_33,T-Shirt,Fashion,3,1200,3600,Female
+100107,09-01-2024,Customer_189,Mixer Grinder,Home Appliances,4,4500,18000,Female
+100108,10-01-2024,Customer_298,Washing Machine,Home Appliances,4,22000,88000,Female
+100109,10-01-2024,Customer_215,Mobile,Electronics,3,15000,45000,Female
+100110,10-01-2024,Customer_90,Shoes,Fashion,5,3000,15000,Female
+100111,10-01-2024,Customer_272,Mobile,Electronics,2,15000,30000,Male
+100112,10-01-2024,Customer_348,Washing Machine,Home Appliances,2,22000,44000,Male
+100113,10-01-2024,Customer_4,Mixer Grinder,Home Appliances,3,4500,13500,Female
+100114,10-01-2024,Customer_108,Washing Machine,Home Appliances,4,22000,88000,Female
+100115,10-01-2024,Customer_256,Headphones,Electronics,1,2500,2500,Female
+100116,10-01-2024,Customer_203,Book,Stationery,1,500,500,Female
+100117,10-01-2024,Customer_176,Mixer Grinder,Home Appliances,3,4500,13500,Female
+100118,10-01-2024,Customer_183,Headphones,Electronics,2,2500,5000,Female
+100119,10-01-2024,Customer_276,Microwave,Home Appliances,4,12000,48000,Male
+100120,11-01-2024,Customer_26,Laptop,Electronics,2,55000,110000,Male
+100121,11-01-2024,Customer_270,Microwave,Home Appliances,3,12000,36000,Female
+100122,11-01-2024,Customer_75,Jeans,Fashion,3,2500,7500,Female
+100123,11-01-2024,Customer_237,Book,Stationery,1,500,500,Female
+100124,11-01-2024,Customer_283,Mobile,Electronics,3,15000,45000,Male
+100125,11-01-2024,Customer_305,Book,Stationery,1,500,500,Male
+100126,11-01-2024,Customer_227,Mixer Grinder,Home Appliances,5,4500,22500,Male
+100127,11-01-2024,Customer_207,Laptop,Electronics,1,55000,55000,Male
+100128,11-01-2024,Customer_307,Jeans,Fashion,5,2500,12500,Male
+100129,12-01-2024,Customer_246,Jeans,Fashion,1,2500,2500,Male
+100130,12-01-2024,Customer_23,Microwave,Home Appliances,4,12000,48000,Male
+100131,12-01-2024,Customer_235,Microwave,Home Appliances,4,12000,48000,Female
+100132,12-01-2024,Customer_111,T-Shirt,Fashion,3,1200,3600,Female
+100133,12-01-2024,Customer_55,Mixer Grinder,Home Appliances,5,4500,22500,Female
+100134,12-01-2024,Customer_34,Microwave,Home Appliances,5,12000,60000,Female
+100135,12-01-2024,Customer_99,Book,Stationery,5,500,2500,Male
+100136,12-01-2024,Customer_148,Laptop,Electronics,4,55000,220000,Male
+100137,12-01-2024,Customer_237,Book,Stationery,4,500,2000,Male
+100138,12-01-2024,Customer_349,Washing Machine,Home Appliances,2,22000,44000,Female
+100139,12-01-2024,Customer_339,Laptop,Electronics,1,55000,55000,Female
+100140,12-01-2024,Customer_312,Headphones,Electronics,5,2500,12500,Female
+100141,13-01-2024,Customer_276,T-Shirt,Fashion,4,1200,4800,Female
+100142,13-01-2024,Customer_214,Book,Stationery,1,500,500,Female
+100143,13-01-2024,Customer_262,Jeans,Fashion,2,2500,5000,Male
+100144,13-01-2024,Customer_303,Jeans,Fashion,5,2500,12500,Male
+100145,13-01-2024,Customer_330,Jeans,Fashion,1,2500,2500,Male
+100146,13-01-2024,Customer_254,Laptop,Electronics,5,55000,275000,Male
+100147,13-01-2024,Customer_299,Book,Stationery,2,500,1000,Female
+100148,13-01-2024,Customer_18,Mixer Grinder,Home Appliances,3,4500,13500,Male
+100149,13-01-2024,Customer_203,Laptop,Electronics,4,55000,220000,Male
+100150,13-01-2024,Customer_181,T-Shirt,Fashion,4,1200,4800,Male
+100151,13-01-2024,Customer_251,Microwave,Home Appliances,4,12000,48000,Female
+100152,13-01-2024,Customer_329,Headphones,Electronics,5,2500,12500,Male
+100153,13-01-2024,Customer_256,Headphones,Electronics,3,2500,7500,Female
+100154,13-01-2024,Customer_282,Headphones,Electronics,2,2500,5000,Female
+100155,14-01-2024,Customer_214,Mixer Grinder,Home Appliances,5,4500,22500,Female
+100156,14-01-2024,Customer_270,Mobile,Electronics,5,15000,75000,Female
+100157,14-01-2024,Customer_227,Microwave,Home Appliances,1,12000,12000,Male
+100158,14-01-2024,Customer_310,Jeans,Fashion,4,2500,10000,Female
+100159,14-01-2024,Customer_340,Jeans,Fashion,3,2500,7500,Female
+100160,14-01-2024,Customer_94,Shoes,Fashion,1,3000,3000,Female
+100161,14-01-2024,Customer_284,Jeans,Fashion,4,2500,10000,Male
+100162,14-01-2024,Customer_214,Book,Stationery,5,500,2500,Female
+100163,14-01-2024,Customer_69,Microwave,Home Appliances,5,12000,60000,Male
+100164,15-01-2024,Customer_344,Microwave,Home Appliances,1,12000,12000,Male
+100165,15-01-2024,Customer_73,Washing Machine,Home Appliances,1,22000,22000,Male
+100166,15-01-2024,Customer_222,Mixer Grinder,Home Appliances,3,4500,13500,Female
+100167,15-01-2024,Customer_334,Microwave,Home Appliances,5,12000,60000,Male
+100168,15-01-2024,Customer_271,T-Shirt,Fashion,4,1200,4800,Male
+100169,15-01-2024,Customer_168,Mobile,Electronics,3,15000,45000,Female
+100170,15-01-2024,Customer_154,Washing Machine,Home Appliances,3,22000,66000,Male
+100171,15-01-2024,Customer_25,Mixer Grinder,Home Appliances,4,4500,18000,Male
+100172,15-01-2024,Customer_213,Mixer Grinder,Home Appliances,1,4500,4500,Male
+100173,15-01-2024,Customer_161,Mixer Grinder,Home Appliances,5,4500,22500,Male
+100174,15-01-2024,Customer_110,Microwave,Home Appliances,3,12000,36000,Male
+100175,15-01-2024,Customer_132,Book,Stationery,2,500,1000,Male
+100176,16-01-2024,Customer_5,Jeans,Fashion,3,2500,7500,Male
+100177,16-01-2024,Customer_154,Jeans,Fashion,5,2500,12500,Male
+100178,16-01-2024,Customer_23,Shoes,Fashion,2,3000,6000,Female
+100179,16-01-2024,Customer_160,Mobile,Electronics,1,15000,15000,Male
+100180,16-01-2024,Customer_247,Mixer Grinder,Home Appliances,2,4500,9000,Female
+100181,16-01-2024,Customer_189,Microwave,Home Appliances,5,12000,60000,Female
+100182,16-01-2024,Customer_113,Jeans,Fashion,2,2500,5000,Female
+100183,16-01-2024,Customer_350,Microwave,Home Appliances,4,12000,48000,Female
+100184,16-01-2024,Customer_343,Mixer Grinder,Home Appliances,3,4500,13500,Female
+100185,16-01-2024,Customer_122,Washing Machine,Home Appliances,4,22000,88000,Female
+100186,16-01-2024,Customer_206,Microwave,Home Appliances,1,12000,12000,Female
+100187,16-01-2024,Customer_191,Headphones,Electronics,2,2500,5000,Male
+100188,16-01-2024,Customer_34,Microwave,Home Appliances,2,12000,24000,Female
+100189,16-01-2024,Customer_199,T-Shirt,Fashion,1,1200,1200,Female
+100190,17-01-2024,Customer_134,T-Shirt,Fashion,1,1200,1200,Male
+100191,17-01-2024,Customer_62,Headphones,Electronics,2,2500,5000,Male
+100192,17-01-2024,Customer_267,Washing Machine,Home Appliances,5,22000,110000,Male
+100193,17-01-2024,Customer_236,Mixer Grinder,Home Appliances,2,4500,9000,Female
+100194,17-01-2024,Customer_341,Laptop,Electronics,3,55000,165000,Female
+100195,17-01-2024,Customer_195,Jeans,Fashion,2,2500,5000,Male
+100196,17-01-2024,Customer_171,Laptop,Electronics,1,55000,55000,Female
+100197,18-01-2024,Customer_253,T-Shirt,Fashion,5,1200,6000,Male
+100198,18-01-2024,Customer_103,Mixer Grinder,Home Appliances,1,4500,4500,Male
+100199,18-01-2024,Customer_325,Headphones,Electronics,4,2500,10000,Female
+100200,18-01-2024,Customer_248,Mixer Grinder,Home Appliances,2,4500,9000,Male
+100201,18-01-2024,Customer_311,Headphones,Electronics,2,2500,5000,Male
+100202,18-01-2024,Customer_347,Washing Machine,Home Appliances,4,22000,88000,Female
+100203,18-01-2024,Customer_135,Mobile,Electronics,2,15000,30000,Male
+100204,18-01-2024,Customer_11,Mixer Grinder,Home Appliances,3,4500,13500,Female
+100205,18-01-2024,Customer_205,T-Shirt,Fashion,2,1200,2400,Female
+100206,18-01-2024,Customer_16,Jeans,Fashion,4,2500,10000,Female
+100207,19-01-2024,Customer_80,Mixer Grinder,Home Appliances,1,4500,4500,Female
+100208,19-01-2024,Customer_333,Shoes,Fashion,1,3000,3000,Female
+100209,19-01-2024,Customer_231,Book,Stationery,1,500,500,Female
+100210,19-01-2024,Customer_337,Microwave,Home Appliances,1,12000,12000,Female
+100211,19-01-2024,Customer_128,Mixer Grinder,Home Appliances,1,4500,4500,Male
+100212,19-01-2024,Customer_260,Laptop,Electronics,3,55000,165000,Male
+100213,19-01-2024,Customer_134,Mobile,Electronics,4,15000,60000,Female
+100214,19-01-2024,Customer_39,Mixer Grinder,Home Appliances,4,4500,18000,Female
+100215,19-01-2024,Customer_234,Shoes,Fashion,5,3000,15000,Male
+100216,19-01-2024,Customer_130,Mobile,Electronics,1,15000,15000,Male
+100217,19-01-2024,Customer_127,Washing Machine,Home Appliances,2,22000,44000,Male
+100218,19-01-2024,Customer_102,Jeans,Fashion,3,2500,7500,Female
+100219,19-01-2024,Customer_313,Book,Stationery,2,500,1000,Female
+100220,19-01-2024,Customer_331,Jeans,Fashion,3,2500,7500,Male
+100221,19-01-2024,Customer_300,T-Shirt,Fashion,4,1200,4800,Female
+100222,20-01-2024,Customer_15,Jeans,Fashion,1,2500,2500,Male
+100223,20-01-2024,Customer_13,Mobile,Electronics,4,15000,60000,Male
+100224,20-01-2024,Customer_153,Washing Machine,Home Appliances,1,22000,22000,Male
+100225,20-01-2024,Customer_271,T-Shirt,Fashion,1,1200,1200,Male
+100226,20-01-2024,Customer_37,Book,Stationery,1,500,500,Female
+100227,20-01-2024,Customer_243,T-Shirt,Fashion,5,1200,6000,Female
+100228,20-01-2024,Customer_256,T-Shirt,Fashion,5,1200,6000,Female
+100229,20-01-2024,Customer_300,Book,Stationery,3,500,1500,Female
+100230,20-01-2024,Customer_282,Headphones,Electronics,3,2500,7500,Male
+100231,20-01-2024,Customer_60,Washing Machine,Home Appliances,4,22000,88000,Female
+100232,20-01-2024,Customer_42,Washing Machine,Home Appliances,3,22000,66000,Female
+100233,20-01-2024,Customer_325,Mobile,Electronics,3,15000,45000,Female
+100234,20-01-2024,Customer_234,T-Shirt,Fashion,4,1200,4800,Female
+100235,20-01-2024,Customer_226,Mixer Grinder,Home Appliances,1,4500,4500,Male
+100236,20-01-2024,Customer_252,Headphones,Electronics,4,2500,10000,Female
+100237,21-01-2024,Customer_36,Laptop,Electronics,4,55000,220000,Female
+100238,21-01-2024,Customer_102,Mixer Grinder,Home Appliances,1,4500,4500,Male
+100239,21-01-2024,Customer_20,Mobile,Electronics,3,15000,45000,Male
+100240,21-01-2024,Customer_270,Mixer Grinder,Home Appliances,5,4500,22500,Male
+100241,21-01-2024,Customer_51,Mobile,Electronics,5,15000,75000,Female
+100242,21-01-2024,Customer_350,T-Shirt,Fashion,2,1200,2400,Female
+100243,21-01-2024,Customer_248,Mobile,Electronics,5,15000,75000,Male
+100244,21-01-2024,Customer_327,Book,Stationery,1,500,500,Male
+100245,21-01-2024,Customer_13,Mobile,Electronics,1,15000,15000,Male
+100246,21-01-2024,Customer_58,T-Shirt,Fashion,2,1200,2400,Female
+100247,22-01-2024,Customer_71,Shoes,Fashion,1,3000,3000,Male
+100248,22-01-2024,Customer_188,Book,Stationery,4,500,2000,Male
+100249,22-01-2024,Customer_137,Shoes,Fashion,3,3000,9000,Male
+100250,22-01-2024,Customer_96,Book,Stationery,4,500,2000,Female
+100251,22-01-2024,Customer_48,Microwave,Home Appliances,5,12000,60000,Male
+100252,22-01-2024,Customer_25,Laptop,Electronics,2,55000,110000,Female
+100253,22-01-2024,Customer_308,Shoes,Fashion,5,3000,15000,Female
+100254,22-01-2024,Customer_29,Book,Stationery,1,500,500,Female
+100255,23-01-2024,Customer_300,T-Shirt,Fashion,3,1200,3600,Female
+100256,23-01-2024,Customer_321,Mobile,Electronics,4,15000,60000,Male
+100257,23-01-2024,Customer_305,Mobile,Electronics,3,15000,45000,Male
+100258,23-01-2024,Customer_202,Headphones,Electronics,1,2500,2500,Male
+100259,23-01-2024,Customer_220,Mobile,Electronics,3,15000,45000,Male
+100260,23-01-2024,Customer_98,Mixer Grinder,Home Appliances,3,4500,13500,Male
+100261,23-01-2024,Customer_61,Laptop,Electronics,1,55000,55000,Female
+100262,23-01-2024,Customer_335,Mixer Grinder,Home Appliances,4,4500,18000,Male
+100263,23-01-2024,Customer_36,Mixer Grinder,Home Appliances,2,4500,9000,Female
+100264,23-01-2024,Customer_165,Shoes,Fashion,5,3000,15000,Male
+100265,23-01-2024,Customer_85,T-Shirt,Fashion,3,1200,3600,Female
+100266,24-01-2024,Customer_340,Shoes,Fashion,5,3000,15000,Male
+100267,24-01-2024,Customer_40,Shoes,Fashion,3,3000,9000,Male
+100268,24-01-2024,Customer_250,Mixer Grinder,Home Appliances,4,4500,18000,Female
+100269,24-01-2024,Customer_212,Headphones,Electronics,2,2500,5000,Male
+100270,24-01-2024,Customer_141,Washing Machine,Home Appliances,2,22000,44000,Male
+100271,24-01-2024,Customer_105,Jeans,Fashion,1,2500,2500,Female
+100272,24-01-2024,Customer_317,Mixer Grinder,Home Appliances,4,4500,18000,Female
+100273,24-01-2024,Customer_129,Mobile,Electronics,1,15000,15000,Male
+100274,24-01-2024,Customer_323,Washing Machine,Home Appliances,4,22000,88000,Female
+100275,24-01-2024,Customer_238,Microwave,Home Appliances,1,12000,12000,Female
+100276,24-01-2024,Customer_95,Headphones,Electronics,3,2500,7500,Male
+100277,24-01-2024,Customer_80,Washing Machine,Home Appliances,2,22000,44000,Male
+100278,24-01-2024,Customer_202,T-Shirt,Fashion,5,1200,6000,Male
+100279,24-01-2024,Customer_313,Shoes,Fashion,5,3000,15000,Male
+100280,24-01-2024,Customer_123,T-Shirt,Fashion,1,1200,1200,Male
+100281,24-01-2024,Customer_203,Book,Stationery,2,500,1000,Female
+100282,24-01-2024,Customer_186,Jeans,Fashion,1,2500,2500,Female
+100283,25-01-2024,Customer_256,Book,Stationery,1,500,500,Male
+100284,25-01-2024,Customer_318,Microwave,Home Appliances,2,12000,24000,Female
+100285,25-01-2024,Customer_173,Jeans,Fashion,5,2500,12500,Male
+100286,25-01-2024,Customer_334,Shoes,Fashion,2,3000,6000,Male
+100287,25-01-2024,Customer_296,Washing Machine,Home Appliances,1,22000,22000,Male
+100288,25-01-2024,Customer_53,Jeans,Fashion,4,2500,10000,Male
+100289,25-01-2024,Customer_132,Book,Stationery,4,500,2000,Male
+100290,25-01-2024,Customer_141,Laptop,Electronics,1,55000,55000,Female
+100291,25-01-2024,Customer_277,Jeans,Fashion,5,2500,12500,Female
+100292,25-01-2024,Customer_34,Book,Stationery,2,500,1000,Female
+100293,26-01-2024,Customer_124,Microwave,Home Appliances,1,12000,12000,Female
+100294,26-01-2024,Customer_190,Microwave,Home Appliances,2,12000,24000,Female
+100295,26-01-2024,Customer_254,Mixer Grinder,Home Appliances,5,4500,22500,Female
+100296,26-01-2024,Customer_239,Microwave,Home Appliances,2,12000,24000,Male
+100297,26-01-2024,Customer_113,T-Shirt,Fashion,5,1200,6000,Female
+100298,26-01-2024,Customer_285,Microwave,Home Appliances,4,12000,48000,Male
+100299,26-01-2024,Customer_262,Headphones,Electronics,1,2500,2500,Female
+100300,26-01-2024,Customer_233,Mobile,Electronics,2,15000,30000,Female
+100301,26-01-2024,Customer_126,Mobile,Electronics,1,15000,15000,Female
+100302,27-01-2024,Customer_224,Mixer Grinder,Home Appliances,2,4500,9000,Female
+100303,27-01-2024,Customer_32,Headphones,Electronics,4,2500,10000,Female
+100304,27-01-2024,Customer_308,Headphones,Electronics,4,2500,10000,Male
+100305,27-01-2024,Customer_342,Microwave,Home Appliances,1,12000,12000,Male
+100306,27-01-2024,Customer_288,Shoes,Fashion,1,3000,3000,Female
+100307,27-01-2024,Customer_219,Mixer Grinder,Home Appliances,2,4500,9000,Male
+100308,27-01-2024,Customer_180,Book,Stationery,1,500,500,Male
+100309,28-01-2024,Customer_24,T-Shirt,Fashion,4,1200,4800,Male
+100310,28-01-2024,Customer_61,Shoes,Fashion,4,3000,12000,Male
+100311,28-01-2024,Customer_96,Mobile,Electronics,3,15000,45000,Male
+100312,28-01-2024,Customer_202,T-Shirt,Fashion,1,1200,1200,Female
+100313,28-01-2024,Customer_32,Washing Machine,Home Appliances,3,22000,66000,Male
+100314,28-01-2024,Customer_220,Microwave,Home Appliances,2,12000,24000,Male
+100315,28-01-2024,Customer_104,Microwave,Home Appliances,1,12000,12000,Male
+100316,28-01-2024,Customer_52,T-Shirt,Fashion,5,1200,6000,Male
+100317,28-01-2024,Customer_253,Mixer Grinder,Home Appliances,4,4500,18000,Female
+100318,29-01-2024,Customer_193,Laptop,Electronics,4,55000,220000,Female
+100319,29-01-2024,Customer_3,Headphones,Electronics,2,2500,5000,Female
+100320,29-01-2024,Customer_13,Laptop,Electronics,3,55000,165000,Male
+100321,29-01-2024,Customer_237,Mixer Grinder,Home Appliances,5,4500,22500,Male
+100322,29-01-2024,Customer_108,Book,Stationery,4,500,2000,Male
+100323,29-01-2024,Customer_105,Washing Machine,Home Appliances,2,22000,44000,Male
+100324,29-01-2024,Customer_79,Shoes,Fashion,2,3000,6000,Female
+100325,29-01-2024,Customer_65,Microwave,Home Appliances,3,12000,36000,Female
+100326,29-01-2024,Customer_341,Microwave,Home Appliances,4,12000,48000,Male
+100327,29-01-2024,Customer_289,Shoes,Fashion,2,3000,6000,Male
+100328,29-01-2024,Customer_263,Jeans,Fashion,3,2500,7500,Female
+100329,29-01-2024,Customer_279,Washing Machine,Home Appliances,1,22000,22000,Female
+100330,30-01-2024,Customer_176,Mobile,Electronics,4,15000,60000,Male
+100331,30-01-2024,Customer_349,Jeans,Fashion,1,2500,2500,Male
+100332,30-01-2024,Customer_339,Book,Stationery,2,500,1000,Female
+100333,30-01-2024,Customer_16,Mixer Grinder,Home Appliances,3,4500,13500,Female
+100334,30-01-2024,Customer_188,Jeans,Fashion,5,2500,12500,Male
+100335,30-01-2024,Customer_292,Laptop,Electronics,5,55000,275000,Male
+100336,30-01-2024,Customer_50,Headphones,Electronics,5,2500,12500,Male
+100337,30-01-2024,Customer_237,T-Shirt,Fashion,4,1200,4800,Male
+100338,30-01-2024,Customer_263,Mixer Grinder,Home Appliances,4,4500,18000,Male
+100339,30-01-2024,Customer_270,Jeans,Fashion,3,2500,7500,Female
+100340,30-01-2024,Customer_289,Jeans,Fashion,5,2500,12500,Female
+100341,31-01-2024,Customer_168,Headphones,Electronics,3,2500,7500,Female
+100342,31-01-2024,Customer_246,Jeans,Fashion,5,2500,12500,Female
+100343,31-01-2024,Customer_176,Washing Machine,Home Appliances,1,22000,22000,Male
+100344,31-01-2024,Customer_296,Mixer Grinder,Home Appliances,4,4500,18000,Female
+100345,31-01-2024,Customer_147,Shoes,Fashion,3,3000,9000,Female
+100346,31-01-2024,Customer_139,Mobile,Electronics,4,15000,60000,Male
+100347,31-01-2024,Customer_42,Book,Stationery,1,500,500,Male
+100348,31-01-2024,Customer_183,Jeans,Fashion,4,2500,10000,Female
+100349,31-01-2024,Customer_169,Book,Stationery,4,500,2000,Male
+100350,31-01-2024,Customer_167,Microwave,Home Appliances,4,12000,48000,Male
+100351,01-02-2024,Customer_264,Washing Machine,Home Appliances,1,22000,22000,Female
+100352,01-02-2024,Customer_1,Headphones,Electronics,4,2500,10000,Male
+100353,01-02-2024,Customer_101,Microwave,Home Appliances,3,12000,36000,Male
+100354,01-02-2024,Customer_102,Washing Machine,Home Appliances,4,22000,88000,Female
+100355,01-02-2024,Customer_231,Jeans,Fashion,3,2500,7500,Male
+100356,01-02-2024,Customer_3,Mixer Grinder,Home Appliances,5,4500,22500,Male
+100357,01-02-2024,Customer_343,Book,Stationery,4,500,2000,Male
+100358,01-02-2024,Customer_11,Headphones,Electronics,3,2500,7500,Female
+100359,01-02-2024,Customer_198,Jeans,Fashion,5,2500,12500,Male
+100360,02-02-2024,Customer_147,T-Shirt,Fashion,4,1200,4800,Male
+100361,02-02-2024,Customer_80,Jeans,Fashion,3,2500,7500,Male
+100362,02-02-2024,Customer_211,Headphones,Electronics,2,2500,5000,Male
+100363,02-02-2024,Customer_3,Microwave,Home Appliances,1,12000,12000,Female
+100364,02-02-2024,Customer_158,Shoes,Fashion,5,3000,15000,Female
+100365,02-02-2024,Customer_176,Shoes,Fashion,1,3000,3000,Female
+100366,02-02-2024,Customer_77,Laptop,Electronics,4,55000,220000,Female
+100367,02-02-2024,Customer_265,Jeans,Fashion,2,2500,5000,Male
+100368,02-02-2024,Customer_154,Book,Stationery,3,500,1500,Female
+100369,02-02-2024,Customer_71,T-Shirt,Fashion,5,1200,6000,Female
+100370,03-02-2024,Customer_58,Laptop,Electronics,3,55000,165000,Male
+100371,03-02-2024,Customer_325,Laptop,Electronics,4,55000,220000,Female
+100372,03-02-2024,Customer_127,Jeans,Fashion,1,2500,2500,Male
+100373,03-02-2024,Customer_326,Mobile,Electronics,1,15000,15000,Male
+100374,03-02-2024,Customer_183,T-Shirt,Fashion,5,1200,6000,Female
+100375,03-02-2024,Customer_24,Book,Stationery,2,500,1000,Male
+100376,03-02-2024,Customer_1,Mixer Grinder,Home Appliances,5,4500,22500,Female
+100377,03-02-2024,Customer_178,Washing Machine,Home Appliances,3,22000,66000,Female
+100378,04-02-2024,Customer_134,Mobile,Electronics,2,15000,30000,Female
+100379,04-02-2024,Customer_294,Microwave,Home Appliances,4,12000,48000,Male
+100380,04-02-2024,Customer_347,Headphones,Electronics,1,2500,2500,Male
+100381,04-02-2024,Customer_270,Jeans,Fashion,4,2500,10000,Female
+100382,04-02-2024,Customer_32,Laptop,Electronics,5,55000,275000,Female
+100383,04-02-2024,Customer_166,Shoes,Fashion,3,3000,9000,Male
+100384,04-02-2024,Customer_183,Shoes,Fashion,3,3000,9000,Male
+100385,04-02-2024,Customer_5,Jeans,Fashion,4,2500,10000,Female
+100386,04-02-2024,Customer_311,Shoes,Fashion,1,3000,3000,Male
+100387,04-02-2024,Customer_175,Washing Machine,Home Appliances,3,22000,66000,Male
+100388,04-02-2024,Customer_55,Washing Machine,Home Appliances,3,22000,66000,Male
+100389,04-02-2024,Customer_129,T-Shirt,Fashion,3,1200,3600,Male
+100390,05-02-2024,Customer_349,Mobile,Electronics,3,15000,45000,Male
+100391,05-02-2024,Customer_299,Microwave,Home Appliances,4,12000,48000,Male
+100392,05-02-2024,Customer_125,Jeans,Fashion,4,2500,10000,Male
+100393,05-02-2024,Customer_54,Laptop,Electronics,1,55000,55000,Male
+100394,05-02-2024,Customer_317,Washing Machine,Home Appliances,4,22000,88000,Female
+100395,05-02-2024,Customer_274,Mixer Grinder,Home Appliances,2,4500,9000,Female
+100396,05-02-2024,Customer_128,Jeans,Fashion,3,2500,7500,Male
+100397,05-02-2024,Customer_314,Book,Stationery,5,500,2500,Female
+100398,06-02-2024,Customer_38,Book,Stationery,1,500,500,Female
+100399,06-02-2024,Customer_22,Mixer Grinder,Home Appliances,5,4500,22500,Male
+100400,06-02-2024,Customer_104,Laptop,Electronics,1,55000,55000,Female
+100401,06-02-2024,Customer_79,Laptop,Electronics,1,55000,55000,Female
+100402,06-02-2024,Customer_37,Headphones,Electronics,4,2500,10000,Male
+100403,06-02-2024,Customer_193,T-Shirt,Fashion,3,1200,3600,Female
+100404,06-02-2024,Customer_110,Laptop,Electronics,3,55000,165000,Female
+100405,06-02-2024,Customer_304,T-Shirt,Fashion,3,1200,3600,Female
+100406,06-02-2024,Customer_305,Mixer Grinder,Home Appliances,2,4500,9000,Male
+100407,07-02-2024,Customer_21,Microwave,Home Appliances,1,12000,12000,Female
+100408,07-02-2024,Customer_18,T-Shirt,Fashion,5,1200,6000,Male
+100409,07-02-2024,Customer_110,Mixer Grinder,Home Appliances,2,4500,9000,Male
+100410,07-02-2024,Customer_172,Mobile,Electronics,4,15000,60000,Female
+100411,07-02-2024,Customer_43,Headphones,Electronics,1,2500,2500,Male
+100412,07-02-2024,Customer_308,Headphones,Electronics,2,2500,5000,Female
+100413,07-02-2024,Customer_339,Headphones,Electronics,2,2500,5000,Male
+100414,07-02-2024,Customer_249,Shoes,Fashion,1,3000,3000,Female
+100415,07-02-2024,Customer_9,Headphones,Electronics,4,2500,10000,Male
+100416,07-02-2024,Customer_134,Laptop,Electronics,2,55000,110000,Female
+100417,07-02-2024,Customer_95,Shoes,Fashion,1,3000,3000,Female
+100418,07-02-2024,Customer_308,Headphones,Electronics,4,2500,10000,Male
+100419,07-02-2024,Customer_347,Mobile,Electronics,1,15000,15000,Male
+100420,07-02-2024,Customer_231,Laptop,Electronics,1,55000,55000,Female
+100421,08-02-2024,Customer_137,Book,Stationery,3,500,1500,Female
+100422,08-02-2024,Customer_256,Book,Stationery,2,500,1000,Male
+100423,08-02-2024,Customer_317,Washing Machine,Home Appliances,5,22000,110000,Male
+100424,08-02-2024,Customer_268,Washing Machine,Home Appliances,4,22000,88000,Female
+100425,08-02-2024,Customer_55,Mobile,Electronics,5,15000,75000,Female
+100426,08-02-2024,Customer_84,Jeans,Fashion,1,2500,2500,Female
+100427,08-02-2024,Customer_27,Headphones,Electronics,3,2500,7500,Male
+100428,08-02-2024,Customer_282,Jeans,Fashion,3,2500,7500,Male
+100429,08-02-2024,Customer_255,Shoes,Fashion,3,3000,9000,Male
+100430,08-02-2024,Customer_126,Shoes,Fashion,4,3000,12000,Female
+100431,08-02-2024,Customer_16,Jeans,Fashion,4,2500,10000,Male
+100432,08-02-2024,Customer_113,Jeans,Fashion,1,2500,2500,Female
+100433,09-02-2024,Customer_86,Mobile,Electronics,4,15000,60000,Male
+100434,09-02-2024,Customer_5,Headphones,Electronics,5,2500,12500,Female
+100435,09-02-2024,Customer_336,Shoes,Fashion,3,3000,9000,Male
+100436,09-02-2024,Customer_15,Headphones,Electronics,4,2500,10000,Male
+100437,09-02-2024,Customer_50,Mixer Grinder,Home Appliances,4,4500,18000,Female
+100438,09-02-2024,Customer_83,Washing Machine,Home Appliances,3,22000,66000,Female
+100439,09-02-2024,Customer_82,Mixer Grinder,Home Appliances,1,4500,4500,Male
+100440,09-02-2024,Customer_324,Laptop,Electronics,2,55000,110000,Male
+100441,09-02-2024,Customer_53,Microwave,Home Appliances,1,12000,12000,Male
+100442,09-02-2024,Customer_138,Jeans,Fashion,4,2500,10000,Male
+100443,09-02-2024,Customer_67,Jeans,Fashion,2,2500,5000,Male
+100444,09-02-2024,Customer_166,Headphones,Electronics,4,2500,10000,Female
+100445,09-02-2024,Customer_280,Book,Stationery,4,500,2000,Male
+100446,09-02-2024,Customer_153,Book,Stationery,3,500,1500,Male
+100447,09-02-2024,Customer_134,Shoes,Fashion,3,3000,9000,Male
+100448,10-02-2024,Customer_303,Book,Stationery,4,500,2000,Female
+100449,10-02-2024,Customer_131,Mobile,Electronics,4,15000,60000,Male
+100450,10-02-2024,Customer_297,Jeans,Fashion,4,2500,10000,Male
+100451,10-02-2024,Customer_263,Shoes,Fashion,3,3000,9000,Male
+100452,10-02-2024,Customer_30,T-Shirt,Fashion,4,1200,4800,Female
+100453,10-02-2024,Customer_196,Jeans,Fashion,5,2500,12500,Male
+100454,10-02-2024,Customer_231,Headphones,Electronics,2,2500,5000,Female
+100455,10-02-2024,Customer_223,Washing Machine,Home Appliances,1,22000,22000,Female
+100456,10-02-2024,Customer_57,Mobile,Electronics,4,15000,60000,Male
+100457,11-02-2024,Customer_345,Laptop,Electronics,3,55000,165000,Female
+100458,11-02-2024,Customer_116,Mobile,Electronics,3,15000,45000,Female
+100459,11-02-2024,Customer_28,Mixer Grinder,Home Appliances,4,4500,18000,Male
+100460,11-02-2024,Customer_300,Shoes,Fashion,2,3000,6000,Female
+100461,11-02-2024,Customer_139,Mixer Grinder,Home Appliances,2,4500,9000,Male
+100462,11-02-2024,Customer_85,Mixer Grinder,Home Appliances,5,4500,22500,Female
+100463,11-02-2024,Customer_97,Microwave,Home Appliances,2,12000,24000,Male
+100464,11-02-2024,Customer_326,T-Shirt,Fashion,4,1200,4800,Male
+100465,11-02-2024,Customer_177,Mobile,Electronics,2,15000,30000,Female
+100466,12-02-2024,Customer_60,Mixer Grinder,Home Appliances,1,4500,4500,Male
+100467,12-02-2024,Customer_178,Mobile,Electronics,5,15000,75000,Female
+100468,12-02-2024,Customer_186,Shoes,Fashion,2,3000,6000,Male
+100469,12-02-2024,Customer_187,Washing Machine,Home Appliances,1,22000,22000,Male
+100470,12-02-2024,Customer_296,Jeans,Fashion,2,2500,5000,Male
+100471,12-02-2024,Customer_225,Shoes,Fashion,4,3000,12000,Female
+100472,13-02-2024,Customer_255,Headphones,Electronics,1,2500,2500,Female
+100473,13-02-2024,Customer_254,Laptop,Electronics,5,55000,275000,Female
+100474,13-02-2024,Customer_38,Jeans,Fashion,4,2500,10000,Female
+100475,13-02-2024,Customer_79,Washing Machine,Home Appliances,4,22000,88000,Male
+100476,13-02-2024,Customer_342,Microwave,Home Appliances,4,12000,48000,Female
+100477,13-02-2024,Customer_260,Headphones,Electronics,2,2500,5000,Male
+100478,13-02-2024,Customer_90,Mobile,Electronics,3,15000,45000,Female
+100479,13-02-2024,Customer_274,Mobile,Electronics,2,15000,30000,Female
+100480,13-02-2024,Customer_321,Laptop,Electronics,5,55000,275000,Female
+100481,13-02-2024,Customer_18,Shoes,Fashion,1,3000,3000,Male
+100482,14-02-2024,Customer_247,Mobile,Electronics,2,15000,30000,Male
+100483,14-02-2024,Customer_152,Laptop,Electronics,3,55000,165000,Female
+100484,14-02-2024,Customer_286,Book,Stationery,5,500,2500,Male
+100485,14-02-2024,Customer_112,Shoes,Fashion,5,3000,15000,Female
+100486,14-02-2024,Customer_136,Shoes,Fashion,2,3000,6000,Male
+100487,14-02-2024,Customer_207,Book,Stationery,3,500,1500,Female
+100488,14-02-2024,Customer_317,Mixer Grinder,Home Appliances,2,4500,9000,Female
+100489,14-02-2024,Customer_89,Shoes,Fashion,5,3000,15000,Male
+100490,15-02-2024,Customer_111,Mixer Grinder,Home Appliances,2,4500,9000,Female
+100491,15-02-2024,Customer_323,Washing Machine,Home Appliances,4,22000,88000,Male
+100492,15-02-2024,Customer_191,Shoes,Fashion,2,3000,6000,Male
+100493,15-02-2024,Customer_256,Mixer Grinder,Home Appliances,5,4500,22500,Female
+100494,15-02-2024,Customer_254,T-Shirt,Fashion,4,1200,4800,Male
+100495,15-02-2024,Customer_88,Shoes,Fashion,5,3000,15000,Male
+100496,15-02-2024,Customer_25,Mobile,Electronics,2,15000,30000,Male
+100497,15-02-2024,Customer_301,Book,Stationery,1,500,500,Male
+100498,15-02-2024,Customer_348,Microwave,Home Appliances,4,12000,48000,Male
+100499,15-02-2024,Customer_339,Laptop,Electronics,3,55000,165000,Female
+100500,15-02-2024,Customer_203,Mobile,Electronics,4,15000,60000,Male
+100501,16-02-2024,Customer_110,Mixer Grinder,Home Appliances,2,4500,9000,Female
+100502,16-02-2024,Customer_226,Microwave,Home Appliances,2,12000,24000,Female
+100503,16-02-2024,Customer_140,Mixer Grinder,Home Appliances,5,4500,22500,Male
+100504,16-02-2024,Customer_103,Jeans,Fashion,1,2500,2500,Male
+100505,16-02-2024,Customer_222,Microwave,Home Appliances,5,12000,60000,Female
+100506,16-02-2024,Customer_191,Book,Stationery,3,500,1500,Female
+100507,16-02-2024,Customer_225,Mobile,Electronics,2,15000,30000,Female
+100508,16-02-2024,Customer_57,Mobile,Electronics,1,15000,15000,Female
+100509,16-02-2024,Customer_12,Laptop,Electronics,3,55000,165000,Female
+100510,17-02-2024,Customer_248,Laptop,Electronics,4,55000,220000,Female
+100511,17-02-2024,Customer_187,Shoes,Fashion,4,3000,12000,Male
+100512,17-02-2024,Customer_73,Jeans,Fashion,4,2500,10000,Male
+100513,17-02-2024,Customer_79,Jeans,Fashion,3,2500,7500,Female
+100514,17-02-2024,Customer_211,Jeans,Fashion,2,2500,5000,Female
+100515,17-02-2024,Customer_233,Washing Machine,Home Appliances,4,22000,88000,Female
+100516,17-02-2024,Customer_269,Headphones,Electronics,3,2500,7500,Female
+100517,17-02-2024,Customer_140,Mixer Grinder,Home Appliances,5,4500,22500,Male
+100518,17-02-2024,Customer_280,Jeans,Fashion,4,2500,10000,Female
+100519,17-02-2024,Customer_127,Washing Machine,Home Appliances,1,22000,22000,Male
+100520,17-02-2024,Customer_341,Microwave,Home Appliances,3,12000,36000,Female
+100521,17-02-2024,Customer_16,Headphones,Electronics,4,2500,10000,Male
+100522,18-02-2024,Customer_199,Shoes,Fashion,3,3000,9000,Female
+100523,18-02-2024,Customer_134,Mobile,Electronics,4,15000,60000,Male
+100524,18-02-2024,Customer_164,Mixer Grinder,Home Appliances,2,4500,9000,Male
+100525,18-02-2024,Customer_182,Mobile,Electronics,5,15000,75000,Male
+100526,18-02-2024,Customer_81,Shoes,Fashion,4,3000,12000,Female
+100527,18-02-2024,Customer_218,Jeans,Fashion,2,2500,5000,Male
+100528,18-02-2024,Customer_220,Laptop,Electronics,1,55000,55000,Female
+100529,18-02-2024,Customer_49,Shoes,Fashion,5,3000,15000,Female
+100530,18-02-2024,Customer_170,Jeans,Fashion,2,2500,5000,Male
+100531,18-02-2024,Customer_71,Shoes,Fashion,4,3000,12000,Male
+100532,18-02-2024,Customer_334,Shoes,Fashion,3,3000,9000,Male
+100533,18-02-2024,Customer_21,Book,Stationery,1,500,500,Female
+100534,18-02-2024,Customer_61,Laptop,Electronics,1,55000,55000,Male
+100535,18-02-2024,Customer_300,Washing Machine,Home Appliances,1,22000,22000,Male
+100536,18-02-2024,Customer_42,Jeans,Fashion,4,2500,10000,Female
+100537,19-02-2024,Customer_120,Laptop,Electronics,4,55000,220000,Female
+100538,19-02-2024,Customer_47,Washing Machine,Home Appliances,2,22000,44000,Male
+100539,19-02-2024,Customer_188,T-Shirt,Fashion,4,1200,4800,Female
+100540,19-02-2024,Customer_69,Mixer Grinder,Home Appliances,4,4500,18000,Male
+100541,19-02-2024,Customer_68,Mobile,Electronics,1,15000,15000,Male
+100542,19-02-2024,Customer_292,Washing Machine,Home Appliances,3,22000,66000,Female
+100543,19-02-2024,Customer_286,Shoes,Fashion,4,3000,12000,Female
+100544,20-02-2024,Customer_265,Jeans,Fashion,2,2500,5000,Female
+100545,20-02-2024,Customer_234,Washing Machine,Home Appliances,5,22000,110000,Female
+100546,20-02-2024,Customer_94,Jeans,Fashion,2,2500,5000,Female
+100547,20-02-2024,Customer_55,Shoes,Fashion,3,3000,9000,Male
+100548,20-02-2024,Customer_312,Mobile,Electronics,5,15000,75000,Female
+100549,20-02-2024,Customer_198,Book,Stationery,5,500,2500,Male
+100550,20-02-2024,Customer_113,Mobile,Electronics,5,15000,75000,Female
+100551,20-02-2024,Customer_194,Jeans,Fashion,4,2500,10000,Female
+100552,20-02-2024,Customer_28,Headphones,Electronics,1,2500,2500,Male
+100553,20-02-2024,Customer_341,Washing Machine,Home Appliances,2,22000,44000,Female
+100554,21-02-2024,Customer_330,Jeans,Fashion,5,2500,12500,Female
+100555,21-02-2024,Customer_267,Mobile,Electronics,4,15000,60000,Female
+100556,21-02-2024,Customer_272,Mixer Grinder,Home Appliances,5,4500,22500,Male
+100557,21-02-2024,Customer_15,Book,Stationery,1,500,500,Male
+100558,21-02-2024,Customer_259,Shoes,Fashion,4,3000,12000,Female
+100559,21-02-2024,Customer_288,Laptop,Electronics,4,55000,220000,Female
+100560,21-02-2024,Customer_125,Washing Machine,Home Appliances,1,22000,22000,Male
+100561,22-02-2024,Customer_348,T-Shirt,Fashion,4,1200,4800,Female
+100562,22-02-2024,Customer_3,Headphones,Electronics,4,2500,10000,Male
+100563,22-02-2024,Customer_24,Shoes,Fashion,2,3000,6000,Female
+100564,22-02-2024,Customer_259,Washing Machine,Home Appliances,1,22000,22000,Female
+100565,22-02-2024,Customer_297,Washing Machine,Home Appliances,1,22000,22000,Male
+100566,22-02-2024,Customer_9,Mobile,Electronics,3,15000,45000,Female
+100567,22-02-2024,Customer_257,T-Shirt,Fashion,1,1200,1200,Male
+100568,22-02-2024,Customer_344,Laptop,Electronics,5,55000,275000,Male
+100569,22-02-2024,Customer_37,Shoes,Fashion,1,3000,3000,Male
+100570,22-02-2024,Customer_200,Mixer Grinder,Home Appliances,1,4500,4500,Male
+100571,22-02-2024,Customer_254,Washing Machine,Home Appliances,1,22000,22000,Female
+100572,22-02-2024,Customer_318,Mixer Grinder,Home Appliances,1,4500,4500,Female
+100573,22-02-2024,Customer_169,Headphones,Electronics,4,2500,10000,Female
+100574,23-02-2024,Customer_166,Microwave,Home Appliances,4,12000,48000,Male
+100575,23-02-2024,Customer_198,T-Shirt,Fashion,4,1200,4800,Male
+100576,23-02-2024,Customer_327,Jeans,Fashion,4,2500,10000,Female
+100577,23-02-2024,Customer_262,Headphones,Electronics,3,2500,7500,Female
+100578,23-02-2024,Customer_115,Washing Machine,Home Appliances,3,22000,66000,Male
+100579,23-02-2024,Customer_127,Microwave,Home Appliances,1,12000,12000,Male
+100580,23-02-2024,Customer_84,Microwave,Home Appliances,1,12000,12000,Male
+100581,23-02-2024,Customer_135,T-Shirt,Fashion,1,1200,1200,Female
+100582,23-02-2024,Customer_323,Jeans,Fashion,1,2500,2500,Female
+100583,23-02-2024,Customer_5,Mobile,Electronics,3,15000,45000,Female
+100584,23-02-2024,Customer_260,Book,Stationery,4,500,2000,Male
+100585,23-02-2024,Customer_209,Jeans,Fashion,3,2500,7500,Female
+100586,23-02-2024,Customer_211,Mixer Grinder,Home Appliances,5,4500,22500,Male
+100587,23-02-2024,Customer_167,Laptop,Electronics,3,55000,165000,Male
+100588,24-02-2024,Customer_4,Washing Machine,Home Appliances,4,22000,88000,Male
+100589,24-02-2024,Customer_204,Mixer Grinder,Home Appliances,3,4500,13500,Female
+100590,24-02-2024,Customer_335,Mobile,Electronics,4,15000,60000,Male
+100591,24-02-2024,Customer_259,Headphones,Electronics,5,2500,12500,Male
+100592,24-02-2024,Customer_314,T-Shirt,Fashion,5,1200,6000,Male
+100593,24-02-2024,Customer_138,Mixer Grinder,Home Appliances,5,4500,22500,Female
+100594,24-02-2024,Customer_269,Microwave,Home Appliances,2,12000,24000,Female
+100595,24-02-2024,Customer_48,Shoes,Fashion,4,3000,12000,Female
+100596,24-02-2024,Customer_181,Book,Stationery,4,500,2000,Female
+100597,24-02-2024,Customer_17,Mobile,Electronics,3,15000,45000,Female
+100598,24-02-2024,Customer_154,Mixer Grinder,Home Appliances,5,4500,22500,Female
+100599,24-02-2024,Customer_230,Jeans,Fashion,1,2500,2500,Male
+100600,24-02-2024,Customer_288,Headphones,Electronics,4,2500,10000,Female
+100601,24-02-2024,Customer_169,Jeans,Fashion,5,2500,12500,Male
+100602,24-02-2024,Customer_225,Shoes,Fashion,5,3000,15000,Male
+100603,24-02-2024,Customer_206,Shoes,Fashion,2,3000,6000,Male
+100604,24-02-2024,Customer_137,T-Shirt,Fashion,3,1200,3600,Male
+100605,24-02-2024,Customer_52,Jeans,Fashion,5,2500,12500,Male
+100606,24-02-2024,Customer_178,Book,Stationery,5,500,2500,Female
+100607,24-02-2024,Customer_63,Shoes,Fashion,1,3000,3000,Female
+100608,24-02-2024,Customer_267,Shoes,Fashion,1,3000,3000,Male
+100609,24-02-2024,Customer_193,Microwave,Home Appliances,3,12000,36000,Male
+100610,24-02-2024,Customer_61,Microwave,Home Appliances,5,12000,60000,Male
+100611,25-02-2024,Customer_291,Shoes,Fashion,2,3000,6000,Male
+100612,25-02-2024,Customer_350,Microwave,Home Appliances,5,12000,60000,Male
+100613,25-02-2024,Customer_109,T-Shirt,Fashion,1,1200,1200,Female
+100614,25-02-2024,Customer_53,Jeans,Fashion,4,2500,10000,Male
+100615,25-02-2024,Customer_199,Shoes,Fashion,2,3000,6000,Male
+100616,25-02-2024,Customer_84,Mixer Grinder,Home Appliances,1,4500,4500,Male
+100617,25-02-2024,Customer_174,Jeans,Fashion,2,2500,5000,Female
+100618,25-02-2024,Customer_138,Washing Machine,Home Appliances,3,22000,66000,Male
+100619,25-02-2024,Customer_135,Book,Stationery,3,500,1500,Male
+100620,25-02-2024,Customer_37,Book,Stationery,4,500,2000,Male
+100621,25-02-2024,Customer_224,T-Shirt,Fashion,4,1200,4800,Male
+100622,25-02-2024,Customer_1,T-Shirt,Fashion,5,1200,6000,Female
+100623,25-02-2024,Customer_193,Mixer Grinder,Home Appliances,2,4500,9000,Female
+100624,25-02-2024,Customer_18,Book,Stationery,1,500,500,Male
+100625,25-02-2024,Customer_264,Microwave,Home Appliances,3,12000,36000,Female
+100626,26-02-2024,Customer_277,Shoes,Fashion,2,3000,6000,Male
+100627,26-02-2024,Customer_199,Shoes,Fashion,3,3000,9000,Female
+100628,26-02-2024,Customer_201,Mobile,Electronics,2,15000,30000,Male
+100629,26-02-2024,Customer_122,T-Shirt,Fashion,1,1200,1200,Male
+100630,26-02-2024,Customer_242,Headphones,Electronics,1,2500,2500,Female
+100631,26-02-2024,Customer_268,Microwave,Home Appliances,3,12000,36000,Female
+100632,26-02-2024,Customer_90,Jeans,Fashion,3,2500,7500,Male
+100633,26-02-2024,Customer_231,Microwave,Home Appliances,3,12000,36000,Female
+100634,26-02-2024,Customer_283,Jeans,Fashion,1,2500,2500,Female
+100635,27-02-2024,Customer_124,Washing Machine,Home Appliances,1,22000,22000,Female
+100636,27-02-2024,Customer_155,Shoes,Fashion,2,3000,6000,Female
+100637,27-02-2024,Customer_330,Jeans,Fashion,1,2500,2500,Male
+100638,27-02-2024,Customer_331,Mobile,Electronics,5,15000,75000,Female
+100639,27-02-2024,Customer_142,Microwave,Home Appliances,3,12000,36000,Male
+100640,27-02-2024,Customer_267,Microwave,Home Appliances,4,12000,48000,Female
+100641,27-02-2024,Customer_71,Microwave,Home Appliances,5,12000,60000,Male
+100642,27-02-2024,Customer_119,Washing Machine,Home Appliances,3,22000,66000,Female
+100643,27-02-2024,Customer_67,Jeans,Fashion,1,2500,2500,Male
+100644,27-02-2024,Customer_154,Shoes,Fashion,1,3000,3000,Male
+100645,27-02-2024,Customer_53,Jeans,Fashion,2,2500,5000,Female
+100646,27-02-2024,Customer_308,T-Shirt,Fashion,1,1200,1200,Male
+100647,28-02-2024,Customer_244,T-Shirt,Fashion,3,1200,3600,Male
+100648,28-02-2024,Customer_90,Washing Machine,Home Appliances,4,22000,88000,Female
+100649,28-02-2024,Customer_96,Washing Machine,Home Appliances,2,22000,44000,Male
+100650,28-02-2024,Customer_104,Washing Machine,Home Appliances,5,22000,110000,Female
+100651,28-02-2024,Customer_153,Washing Machine,Home Appliances,3,22000,66000,Female
+100652,28-02-2024,Customer_173,Shoes,Fashion,2,3000,6000,Female
+100653,28-02-2024,Customer_312,T-Shirt,Fashion,3,1200,3600,Male
+100654,28-02-2024,Customer_233,Laptop,Electronics,1,55000,55000,Female
+100655,28-02-2024,Customer_2,Jeans,Fashion,5,2500,12500,Male
+100656,28-02-2024,Customer_181,Mobile,Electronics,3,15000,45000,Male
+100657,28-02-2024,Customer_79,Microwave,Home Appliances,2,12000,24000,Male
+100658,29-02-2024,Customer_45,Shoes,Fashion,3,3000,9000,Female
+100659,29-02-2024,Customer_278,T-Shirt,Fashion,2,1200,2400,Male
+100660,29-02-2024,Customer_336,Book,Stationery,3,500,1500,Female
+100661,29-02-2024,Customer_264,Mobile,Electronics,2,15000,30000,Female
+100662,29-02-2024,Customer_262,Mixer Grinder,Home Appliances,2,4500,9000,Male
+100663,29-02-2024,Customer_30,Mobile,Electronics,2,15000,30000,Male
+100664,29-02-2024,Customer_66,Mixer Grinder,Home Appliances,4,4500,18000,Female
+100665,29-02-2024,Customer_222,Book,Stationery,2,500,1000,Male
+100666,29-02-2024,Customer_42,Book,Stationery,2,500,1000,Female
+100667,29-02-2024,Customer_48,Washing Machine,Home Appliances,5,22000,110000,Female
+100668,29-02-2024,Customer_297,Mobile,Electronics,4,15000,60000,Female
+100669,01-03-2024,Customer_173,Mobile,Electronics,3,15000,45000,Male
+100670,01-03-2024,Customer_193,Microwave,Home Appliances,4,12000,48000,Male
+100671,01-03-2024,Customer_308,Washing Machine,Home Appliances,1,22000,22000,Female
+100672,01-03-2024,Customer_106,Microwave,Home Appliances,5,12000,60000,Male
+100673,01-03-2024,Customer_106,Mixer Grinder,Home Appliances,3,4500,13500,Female
+100674,01-03-2024,Customer_249,Laptop,Electronics,3,55000,165000,Female
+100675,01-03-2024,Customer_321,Book,Stationery,4,500,2000,Female
+100676,01-03-2024,Customer_235,Headphones,Electronics,5,2500,12500,Female
+100677,01-03-2024,Customer_250,T-Shirt,Fashion,3,1200,3600,Male
+100678,02-03-2024,Customer_203,Jeans,Fashion,2,2500,5000,Male
+100679,02-03-2024,Customer_110,Laptop,Electronics,1,55000,55000,Male
+100680,02-03-2024,Customer_309,Mobile,Electronics,2,15000,30000,Female
+100681,02-03-2024,Customer_20,Headphones,Electronics,1,2500,2500,Male
+100682,02-03-2024,Customer_109,Washing Machine,Home Appliances,2,22000,44000,Male
+100683,02-03-2024,Customer_253,Jeans,Fashion,3,2500,7500,Female
+100684,02-03-2024,Customer_215,Shoes,Fashion,4,3000,12000,Female
+100685,02-03-2024,Customer_232,Shoes,Fashion,2,3000,6000,Male
+100686,02-03-2024,Customer_332,Laptop,Electronics,5,55000,275000,Female
+100687,02-03-2024,Customer_232,Microwave,Home Appliances,2,12000,24000,Male
+100688,02-03-2024,Customer_245,Microwave,Home Appliances,3,12000,36000,Female
+100689,03-03-2024,Customer_125,Microwave,Home Appliances,2,12000,24000,Female
+100690,03-03-2024,Customer_154,Washing Machine,Home Appliances,5,22000,110000,Female
+100691,03-03-2024,Customer_256,Mixer Grinder,Home Appliances,3,4500,13500,Male
+100692,03-03-2024,Customer_91,T-Shirt,Fashion,1,1200,1200,Male
+100693,03-03-2024,Customer_24,Laptop,Electronics,4,55000,220000,Male
+100694,03-03-2024,Customer_276,Laptop,Electronics,3,55000,165000,Female
+100695,03-03-2024,Customer_344,T-Shirt,Fashion,2,1200,2400,Male
+100696,03-03-2024,Customer_214,Mobile,Electronics,5,15000,75000,Female
+100697,03-03-2024,Customer_329,Microwave,Home Appliances,1,12000,12000,Male
+100698,03-03-2024,Customer_280,Headphones,Electronics,1,2500,2500,Male
+100699,04-03-2024,Customer_325,Microwave,Home Appliances,1,12000,12000,Female
+100700,04-03-2024,Customer_80,Mixer Grinder,Home Appliances,2,4500,9000,Male
+100701,04-03-2024,Customer_46,T-Shirt,Fashion,5,1200,6000,Male
+100702,04-03-2024,Customer_288,Laptop,Electronics,4,55000,220000,Female
+100703,04-03-2024,Customer_218,Jeans,Fashion,1,2500,2500,Female
+100704,04-03-2024,Customer_142,Washing Machine,Home Appliances,5,22000,110000,Female
+100705,04-03-2024,Customer_173,Mobile,Electronics,2,15000,30000,Male
+100706,04-03-2024,Customer_66,Jeans,Fashion,5,2500,12500,Female
+100707,04-03-2024,Customer_44,Jeans,Fashion,3,2500,7500,Female
+100708,04-03-2024,Customer_58,Jeans,Fashion,5,2500,12500,Female
+100709,04-03-2024,Customer_196,Mobile,Electronics,5,15000,75000,Male
+100710,05-03-2024,Customer_9,Mobile,Electronics,4,15000,60000,Male
+100711,05-03-2024,Customer_152,T-Shirt,Fashion,2,1200,2400,Male
+100712,05-03-2024,Customer_224,Washing Machine,Home Appliances,5,22000,110000,Male
+100713,05-03-2024,Customer_257,Washing Machine,Home Appliances,4,22000,88000,Male
+100714,05-03-2024,Customer_107,Jeans,Fashion,1,2500,2500,Male
+100715,06-03-2024,Customer_182,Jeans,Fashion,5,2500,12500,Male
+100716,06-03-2024,Customer_338,Washing Machine,Home Appliances,2,22000,44000,Male
+100717,06-03-2024,Customer_42,Headphones,Electronics,4,2500,10000,Male
+100718,06-03-2024,Customer_266,Jeans,Fashion,2,2500,5000,Male
+100719,06-03-2024,Customer_283,Mobile,Electronics,2,15000,30000,Male
+100720,06-03-2024,Customer_73,Book,Stationery,2,500,1000,Female
+100721,06-03-2024,Customer_233,Laptop,Electronics,4,55000,220000,Male
+100722,06-03-2024,Customer_101,Washing Machine,Home Appliances,3,22000,66000,Female
+100723,06-03-2024,Customer_268,T-Shirt,Fashion,4,1200,4800,Female
+100724,06-03-2024,Customer_346,Shoes,Fashion,4,3000,12000,Male
+100725,07-03-2024,Customer_16,Shoes,Fashion,4,3000,12000,Male
+100726,07-03-2024,Customer_189,Laptop,Electronics,5,55000,275000,Male
+100727,07-03-2024,Customer_102,Laptop,Electronics,5,55000,275000,Male
+100728,07-03-2024,Customer_216,Microwave,Home Appliances,1,12000,12000,Male
+100729,07-03-2024,Customer_103,Jeans,Fashion,5,2500,12500,Male
+100730,07-03-2024,Customer_21,Laptop,Electronics,2,55000,110000,Male
+100731,07-03-2024,Customer_318,Laptop,Electronics,4,55000,220000,Male
+100732,07-03-2024,Customer_44,Book,Stationery,1,500,500,Female
+100733,07-03-2024,Customer_30,Shoes,Fashion,2,3000,6000,Male
+100734,07-03-2024,Customer_334,Washing Machine,Home Appliances,2,22000,44000,Female
+100735,07-03-2024,Customer_254,Microwave,Home Appliances,1,12000,12000,Female
+100736,07-03-2024,Customer_188,Washing Machine,Home Appliances,1,22000,22000,Male
+100737,07-03-2024,Customer_73,Mobile,Electronics,4,15000,60000,Male
+100738,07-03-2024,Customer_39,Shoes,Fashion,5,3000,15000,Male
+100739,07-03-2024,Customer_71,Shoes,Fashion,4,3000,12000,Female
+100740,08-03-2024,Customer_283,Jeans,Fashion,3,2500,7500,Male
+100741,08-03-2024,Customer_282,Shoes,Fashion,2,3000,6000,Male
+100742,08-03-2024,Customer_319,Book,Stationery,4,500,2000,Female
+100743,08-03-2024,Customer_273,Headphones,Electronics,2,2500,5000,Male
+100744,08-03-2024,Customer_325,Microwave,Home Appliances,5,12000,60000,Male
+100745,08-03-2024,Customer_149,Jeans,Fashion,5,2500,12500,Female
+100746,08-03-2024,Customer_67,T-Shirt,Fashion,1,1200,1200,Female
+100747,08-03-2024,Customer_302,Mixer Grinder,Home Appliances,2,4500,9000,Male
+100748,08-03-2024,Customer_174,Jeans,Fashion,4,2500,10000,Male
+100749,08-03-2024,Customer_128,Shoes,Fashion,1,3000,3000,Female
+100750,08-03-2024,Customer_149,Laptop,Electronics,1,55000,55000,Male
+100751,08-03-2024,Customer_336,Microwave,Home Appliances,1,12000,12000,Male
+100752,08-03-2024,Customer_267,Laptop,Electronics,4,55000,220000,Male
+100753,08-03-2024,Customer_5,Washing Machine,Home Appliances,5,22000,110000,Female
+100754,08-03-2024,Customer_346,Headphones,Electronics,5,2500,12500,Female
+100755,09-03-2024,Customer_55,Shoes,Fashion,3,3000,9000,Female
+100756,09-03-2024,Customer_222,Microwave,Home Appliances,4,12000,48000,Female
+100757,09-03-2024,Customer_76,Jeans,Fashion,2,2500,5000,Female
+100758,09-03-2024,Customer_41,Jeans,Fashion,5,2500,12500,Male
+100759,09-03-2024,Customer_156,Laptop,Electronics,2,55000,110000,Female
+100760,09-03-2024,Customer_226,Jeans,Fashion,1,2500,2500,Female
+100761,09-03-2024,Customer_150,T-Shirt,Fashion,4,1200,4800,Female
+100762,09-03-2024,Customer_173,Washing Machine,Home Appliances,3,22000,66000,Female
+100763,09-03-2024,Customer_218,T-Shirt,Fashion,2,1200,2400,Male
+100764,09-03-2024,Customer_172,Washing Machine,Home Appliances,4,22000,88000,Female
+100765,09-03-2024,Customer_230,Microwave,Home Appliances,3,12000,36000,Male
+100766,10-03-2024,Customer_172,Washing Machine,Home Appliances,4,22000,88000,Male
+100767,10-03-2024,Customer_350,T-Shirt,Fashion,4,1200,4800,Female
+100768,10-03-2024,Customer_350,Microwave,Home Appliances,1,12000,12000,Male
+100769,10-03-2024,Customer_97,Jeans,Fashion,5,2500,12500,Male
+100770,10-03-2024,Customer_332,Jeans,Fashion,1,2500,2500,Male
+100771,10-03-2024,Customer_232,Headphones,Electronics,5,2500,12500,Male
+100772,10-03-2024,Customer_64,T-Shirt,Fashion,5,1200,6000,Female
+100773,10-03-2024,Customer_254,Washing Machine,Home Appliances,1,22000,22000,Male
+100774,10-03-2024,Customer_341,Microwave,Home Appliances,2,12000,24000,Female
+100775,10-03-2024,Customer_273,Mixer Grinder,Home Appliances,3,4500,13500,Female
+100776,10-03-2024,Customer_108,Book,Stationery,4,500,2000,Female
+100777,10-03-2024,Customer_256,Book,Stationery,1,500,500,Female
+100778,11-03-2024,Customer_160,Washing Machine,Home Appliances,3,22000,66000,Female
+100779,11-03-2024,Customer_251,Washing Machine,Home Appliances,5,22000,110000,Male
+100780,11-03-2024,Customer_56,T-Shirt,Fashion,3,1200,3600,Male
+100781,11-03-2024,Customer_272,Microwave,Home Appliances,5,12000,60000,Female
+100782,11-03-2024,Customer_327,Mixer Grinder,Home Appliances,4,4500,18000,Male
+100783,11-03-2024,Customer_336,T-Shirt,Fashion,3,1200,3600,Male
+100784,11-03-2024,Customer_252,Jeans,Fashion,5,2500,12500,Female
+100785,11-03-2024,Customer_152,T-Shirt,Fashion,2,1200,2400,Male
+100786,11-03-2024,Customer_125,Washing Machine,Home Appliances,1,22000,22000,Male
+100787,11-03-2024,Customer_333,Laptop,Electronics,5,55000,275000,Male
+100788,11-03-2024,Customer_57,Book,Stationery,4,500,2000,Female
+100789,12-03-2024,Customer_236,Mobile,Electronics,3,15000,45000,Male
+100790,12-03-2024,Customer_221,Laptop,Electronics,1,55000,55000,Male
+100791,12-03-2024,Customer_278,Microwave,Home Appliances,3,12000,36000,Male
+100792,12-03-2024,Customer_201,Shoes,Fashion,1,3000,3000,Male
+100793,12-03-2024,Customer_283,Microwave,Home Appliances,3,12000,36000,Male
+100794,12-03-2024,Customer_55,Jeans,Fashion,2,2500,5000,Female
+100795,12-03-2024,Customer_263,Shoes,Fashion,3,3000,9000,Male
+100796,12-03-2024,Customer_174,Shoes,Fashion,5,3000,15000,Female
+100797,12-03-2024,Customer_147,Jeans,Fashion,2,2500,5000,Female
+100798,12-03-2024,Customer_200,Book,Stationery,2,500,1000,Male
+100799,12-03-2024,Customer_261,T-Shirt,Fashion,4,1200,4800,Female
+100800,12-03-2024,Customer_64,Book,Stationery,5,500,2500,Female
+100801,12-03-2024,Customer_153,Jeans,Fashion,3,2500,7500,Male
+100802,12-03-2024,Customer_87,Laptop,Electronics,4,55000,220000,Male
+100803,12-03-2024,Customer_338,Book,Stationery,3,500,1500,Male
+100804,12-03-2024,Customer_243,Mobile,Electronics,3,15000,45000,Female
+100805,13-03-2024,Customer_209,Shoes,Fashion,1,3000,3000,Male
+100806,13-03-2024,Customer_249,T-Shirt,Fashion,1,1200,1200,Female
+100807,13-03-2024,Customer_236,Jeans,Fashion,5,2500,12500,Female
+100808,13-03-2024,Customer_268,Book,Stationery,3,500,1500,Male
+100809,13-03-2024,Customer_146,Jeans,Fashion,5,2500,12500,Male
+100810,13-03-2024,Customer_105,Mobile,Electronics,4,15000,60000,Male
+100811,13-03-2024,Customer_301,Book,Stationery,5,500,2500,Female
+100812,13-03-2024,Customer_241,Headphones,Electronics,1,2500,2500,Female
+100813,13-03-2024,Customer_64,Headphones,Electronics,4,2500,10000,Male
+100814,13-03-2024,Customer_116,Book,Stationery,1,500,500,Male
+100815,13-03-2024,Customer_176,Mobile,Electronics,3,15000,45000,Male
+100816,13-03-2024,Customer_338,Book,Stationery,4,500,2000,Male
+100817,14-03-2024,Customer_120,Headphones,Electronics,2,2500,5000,Male
+100818,14-03-2024,Customer_11,Book,Stationery,4,500,2000,Female
+100819,14-03-2024,Customer_90,Book,Stationery,5,500,2500,Male
+100820,14-03-2024,Customer_40,Jeans,Fashion,4,2500,10000,Female
+100821,14-03-2024,Customer_258,T-Shirt,Fashion,3,1200,3600,Female
+100822,14-03-2024,Customer_126,Microwave,Home Appliances,1,12000,12000,Female
+100823,14-03-2024,Customer_48,Mixer Grinder,Home Appliances,1,4500,4500,Female
+100824,14-03-2024,Customer_128,Mobile,Electronics,4,15000,60000,Female
+100825,14-03-2024,Customer_293,Shoes,Fashion,5,3000,15000,Male
+100826,14-03-2024,Customer_339,Laptop,Electronics,1,55000,55000,Male
+100827,14-03-2024,Customer_276,Shoes,Fashion,2,3000,6000,Female
+100828,14-03-2024,Customer_11,Mobile,Electronics,5,15000,75000,Male
+100829,14-03-2024,Customer_324,Mixer Grinder,Home Appliances,2,4500,9000,Female
+100830,14-03-2024,Customer_27,Shoes,Fashion,4,3000,12000,Male
+100831,14-03-2024,Customer_269,Washing Machine,Home Appliances,5,22000,110000,Male
+100832,14-03-2024,Customer_226,Mixer Grinder,Home Appliances,2,4500,9000,Male
+100833,15-03-2024,Customer_307,T-Shirt,Fashion,1,1200,1200,Female
+100834,15-03-2024,Customer_235,Shoes,Fashion,4,3000,12000,Female
+100835,15-03-2024,Customer_323,Mobile,Electronics,1,15000,15000,Female
+100836,15-03-2024,Customer_128,Mixer Grinder,Home Appliances,1,4500,4500,Male
+100837,15-03-2024,Customer_254,T-Shirt,Fashion,2,1200,2400,Male
+100838,15-03-2024,Customer_225,Mixer Grinder,Home Appliances,3,4500,13500,Male
+100839,15-03-2024,Customer_169,Microwave,Home Appliances,5,12000,60000,Male
+100840,15-03-2024,Customer_254,Mixer Grinder,Home Appliances,5,4500,22500,Female
+100841,15-03-2024,Customer_287,Washing Machine,Home Appliances,3,22000,66000,Male
+100842,15-03-2024,Customer_48,Mobile,Electronics,1,15000,15000,Male
+100843,15-03-2024,Customer_49,Jeans,Fashion,2,2500,5000,Female
+100844,15-03-2024,Customer_109,Book,Stationery,4,500,2000,Male
+100845,15-03-2024,Customer_70,Mixer Grinder,Home Appliances,5,4500,22500,Female
+100846,15-03-2024,Customer_210,Jeans,Fashion,2,2500,5000,Female
+100847,16-03-2024,Customer_286,Washing Machine,Home Appliances,1,22000,22000,Male
+100848,16-03-2024,Customer_346,Mobile,Electronics,2,15000,30000,Female
+100849,16-03-2024,Customer_271,Mixer Grinder,Home Appliances,5,4500,22500,Female
+100850,16-03-2024,Customer_265,Shoes,Fashion,2,3000,6000,Female
+100851,16-03-2024,Customer_240,Microwave,Home Appliances,2,12000,24000,Male
+100852,16-03-2024,Customer_113,Laptop,Electronics,2,55000,110000,Male
+100853,16-03-2024,Customer_307,Headphones,Electronics,2,2500,5000,Female
+100854,16-03-2024,Customer_306,Microwave,Home Appliances,4,12000,48000,Male
+100855,16-03-2024,Customer_12,Mixer Grinder,Home Appliances,3,4500,13500,Male
+100856,16-03-2024,Customer_104,Shoes,Fashion,3,3000,9000,Female
+100857,16-03-2024,Customer_186,Microwave,Home Appliances,2,12000,24000,Female
+100858,16-03-2024,Customer_218,Jeans,Fashion,1,2500,2500,Male
+100859,17-03-2024,Customer_133,Shoes,Fashion,2,3000,6000,Female
+100860,17-03-2024,Customer_25,Laptop,Electronics,4,55000,220000,Female
+100861,17-03-2024,Customer_115,Headphones,Electronics,2,2500,5000,Male
+100862,17-03-2024,Customer_225,Mixer Grinder,Home Appliances,4,4500,18000,Male
+100863,17-03-2024,Customer_248,T-Shirt,Fashion,3,1200,3600,Male
+100864,17-03-2024,Customer_191,Mobile,Electronics,2,15000,30000,Female
+100865,17-03-2024,Customer_302,Mixer Grinder,Home Appliances,2,4500,9000,Male
+100866,17-03-2024,Customer_125,Jeans,Fashion,2,2500,5000,Male
+100867,18-03-2024,Customer_61,Jeans,Fashion,1,2500,2500,Female
+100868,18-03-2024,Customer_165,Mixer Grinder,Home Appliances,4,4500,18000,Male
+100869,18-03-2024,Customer_213,Book,Stationery,2,500,1000,Male
+100870,18-03-2024,Customer_130,Book,Stationery,1,500,500,Female
+100871,18-03-2024,Customer_145,Shoes,Fashion,4,3000,12000,Male
+100872,18-03-2024,Customer_64,Shoes,Fashion,1,3000,3000,Male
+100873,18-03-2024,Customer_105,Mobile,Electronics,1,15000,15000,Female
+100874,18-03-2024,Customer_115,T-Shirt,Fashion,3,1200,3600,Male
+100875,18-03-2024,Customer_222,Mixer Grinder,Home Appliances,2,4500,9000,Female
+100876,18-03-2024,Customer_136,Shoes,Fashion,3,3000,9000,Female
+100877,19-03-2024,Customer_8,Mixer Grinder,Home Appliances,3,4500,13500,Male
+100878,19-03-2024,Customer_214,Mixer Grinder,Home Appliances,4,4500,18000,Female
+100879,19-03-2024,Customer_53,Shoes,Fashion,2,3000,6000,Female
+100880,19-03-2024,Customer_46,Headphones,Electronics,1,2500,2500,Female
+100881,19-03-2024,Customer_14,Mixer Grinder,Home Appliances,4,4500,18000,Female
+100882,20-03-2024,Customer_82,Jeans,Fashion,4,2500,10000,Male
+100883,20-03-2024,Customer_323,Jeans,Fashion,3,2500,7500,Male
+100884,20-03-2024,Customer_339,Washing Machine,Home Appliances,5,22000,110000,Male
+100885,20-03-2024,Customer_99,Laptop,Electronics,5,55000,275000,Male
+100886,20-03-2024,Customer_229,Book,Stationery,4,500,2000,Female
+100887,20-03-2024,Customer_6,Shoes,Fashion,2,3000,6000,Male
+100888,20-03-2024,Customer_300,Shoes,Fashion,5,3000,15000,Female
+100889,20-03-2024,Customer_87,Headphones,Electronics,2,2500,5000,Male
+100890,21-03-2024,Customer_290,Mixer Grinder,Home Appliances,5,4500,22500,Female
+100891,21-03-2024,Customer_181,Mixer Grinder,Home Appliances,1,4500,4500,Female
+100892,21-03-2024,Customer_208,Laptop,Electronics,4,55000,220000,Male
+100893,21-03-2024,Customer_24,T-Shirt,Fashion,4,1200,4800,Female
+100894,21-03-2024,Customer_285,Headphones,Electronics,5,2500,12500,Female
+100895,21-03-2024,Customer_163,Book,Stationery,4,500,2000,Female
+100896,21-03-2024,Customer_192,Washing Machine,Home Appliances,5,22000,110000,Female
+100897,21-03-2024,Customer_189,Mixer Grinder,Home Appliances,2,4500,9000,Female
+100898,21-03-2024,Customer_39,Headphones,Electronics,1,2500,2500,Female
+100899,21-03-2024,Customer_32,Jeans,Fashion,2,2500,5000,Female
+100900,21-03-2024,Customer_7,Microwave,Home Appliances,1,12000,12000,Female
+100901,21-03-2024,Customer_206,T-Shirt,Fashion,1,1200,1200,Female
+100902,21-03-2024,Customer_122,Laptop,Electronics,1,55000,55000,Male
+100903,22-03-2024,Customer_215,Laptop,Electronics,1,55000,55000,Female
+100904,22-03-2024,Customer_84,Washing Machine,Home Appliances,1,22000,22000,Male
+100905,22-03-2024,Customer_166,Shoes,Fashion,5,3000,15000,Male
+100906,22-03-2024,Customer_133,Shoes,Fashion,1,3000,3000,Male
+100907,23-03-2024,Customer_183,Mobile,Electronics,2,15000,30000,Male
+100908,23-03-2024,Customer_22,Washing Machine,Home Appliances,4,22000,88000,Male
+100909,23-03-2024,Customer_87,Mixer Grinder,Home Appliances,5,4500,22500,Male
+100910,23-03-2024,Customer_263,Laptop,Electronics,2,55000,110000,Female
+100911,23-03-2024,Customer_83,Jeans,Fashion,2,2500,5000,Male
+100912,23-03-2024,Customer_227,T-Shirt,Fashion,2,1200,2400,Female
+100913,23-03-2024,Customer_112,Book,Stationery,5,500,2500,Male
+100914,23-03-2024,Customer_287,Laptop,Electronics,5,55000,275000,Male
+100915,23-03-2024,Customer_115,Headphones,Electronics,5,2500,12500,Male
+100916,23-03-2024,Customer_111,Headphones,Electronics,5,2500,12500,Female
+100917,24-03-2024,Customer_332,Mobile,Electronics,2,15000,30000,Male
+100918,24-03-2024,Customer_23,T-Shirt,Fashion,3,1200,3600,Male
+100919,24-03-2024,Customer_312,Book,Stationery,4,500,2000,Male
+100920,24-03-2024,Customer_162,Washing Machine,Home Appliances,2,22000,44000,Female
+100921,24-03-2024,Customer_327,T-Shirt,Fashion,4,1200,4800,Male
+100922,24-03-2024,Customer_15,Shoes,Fashion,3,3000,9000,Female
+100923,24-03-2024,Customer_49,Shoes,Fashion,2,3000,6000,Male
+100924,24-03-2024,Customer_295,Mobile,Electronics,1,15000,15000,Male
+100925,25-03-2024,Customer_21,Mixer Grinder,Home Appliances,2,4500,9000,Female
+100926,25-03-2024,Customer_136,Laptop,Electronics,3,55000,165000,Female
+100927,25-03-2024,Customer_266,Headphones,Electronics,3,2500,7500,Female
+100928,25-03-2024,Customer_217,Mixer Grinder,Home Appliances,3,4500,13500,Female
+100929,25-03-2024,Customer_102,Jeans,Fashion,4,2500,10000,Female
+100930,25-03-2024,Customer_335,Microwave,Home Appliances,1,12000,12000,Male
+100931,25-03-2024,Customer_12,Microwave,Home Appliances,4,12000,48000,Male
+100932,25-03-2024,Customer_1,Washing Machine,Home Appliances,3,22000,66000,Female
+100933,25-03-2024,Customer_97,Shoes,Fashion,1,3000,3000,Male
+100934,25-03-2024,Customer_68,Laptop,Electronics,1,55000,55000,Female
+100935,25-03-2024,Customer_286,Headphones,Electronics,4,2500,10000,Male
+100936,25-03-2024,Customer_219,Shoes,Fashion,1,3000,3000,Male
+100937,25-03-2024,Customer_148,Jeans,Fashion,2,2500,5000,Male
+100938,25-03-2024,Customer_306,Mixer Grinder,Home Appliances,4,4500,18000,Female
+100939,26-03-2024,Customer_232,Mixer Grinder,Home Appliances,2,4500,9000,Male
+100940,26-03-2024,Customer_299,Book,Stationery,5,500,2500,Female
+100941,26-03-2024,Customer_65,Microwave,Home Appliances,2,12000,24000,Female
+100942,26-03-2024,Customer_83,Microwave,Home Appliances,5,12000,60000,Male
+100943,26-03-2024,Customer_77,Mobile,Electronics,5,15000,75000,Female
+100944,26-03-2024,Customer_238,T-Shirt,Fashion,5,1200,6000,Male
+100945,26-03-2024,Customer_13,Shoes,Fashion,1,3000,3000,Male
+100946,26-03-2024,Customer_154,Microwave,Home Appliances,3,12000,36000,Male
+100947,27-03-2024,Customer_31,Laptop,Electronics,1,55000,55000,Female
+100948,27-03-2024,Customer_350,Book,Stationery,2,500,1000,Male
+100949,27-03-2024,Customer_118,T-Shirt,Fashion,3,1200,3600,Female
+100950,27-03-2024,Customer_324,Washing Machine,Home Appliances,2,22000,44000,Female
+100951,27-03-2024,Customer_265,Microwave,Home Appliances,4,12000,48000,Female
+100952,27-03-2024,Customer_323,T-Shirt,Fashion,5,1200,6000,Male
+100953,27-03-2024,Customer_199,Book,Stationery,1,500,500,Male
+100954,27-03-2024,Customer_333,Book,Stationery,5,500,2500,Female
+100955,27-03-2024,Customer_66,Microwave,Home Appliances,5,12000,60000,Male
+100956,27-03-2024,Customer_340,Microwave,Home Appliances,3,12000,36000,Female
+100957,28-03-2024,Customer_274,Jeans,Fashion,4,2500,10000,Male
+100958,28-03-2024,Customer_189,Book,Stationery,1,500,500,Female
+100959,28-03-2024,Customer_323,Microwave,Home Appliances,2,12000,24000,Female
+100960,28-03-2024,Customer_21,Headphones,Electronics,2,2500,5000,Female
+100961,28-03-2024,Customer_141,T-Shirt,Fashion,4,1200,4800,Female
+100962,28-03-2024,Customer_111,T-Shirt,Fashion,3,1200,3600,Female
+100963,28-03-2024,Customer_296,Washing Machine,Home Appliances,1,22000,22000,Male
+100964,28-03-2024,Customer_134,T-Shirt,Fashion,4,1200,4800,Female
+100965,28-03-2024,Customer_214,Microwave,Home Appliances,1,12000,12000,Female
+100966,28-03-2024,Customer_341,Book,Stationery,3,500,1500,Male
+100967,28-03-2024,Customer_99,Washing Machine,Home Appliances,3,22000,66000,Male
+100968,28-03-2024,Customer_226,Headphones,Electronics,3,2500,7500,Male
+100969,28-03-2024,Customer_330,Headphones,Electronics,1,2500,2500,Male
+100970,29-03-2024,Customer_33,Book,Stationery,3,500,1500,Male
+100971,29-03-2024,Customer_324,Book,Stationery,4,500,2000,Female
+100972,29-03-2024,Customer_131,Headphones,Electronics,1,2500,2500,Male
+100973,29-03-2024,Customer_269,Mobile,Electronics,3,15000,45000,Female
+100974,29-03-2024,Customer_178,Book,Stationery,1,500,500,Female
+100975,29-03-2024,Customer_72,Mixer Grinder,Home Appliances,3,4500,13500,Female
+100976,29-03-2024,Customer_303,Microwave,Home Appliances,2,12000,24000,Female
+100977,29-03-2024,Customer_74,Jeans,Fashion,5,2500,12500,Male
+100978,29-03-2024,Customer_296,Headphones,Electronics,3,2500,7500,Male
+100979,29-03-2024,Customer_6,Washing Machine,Home Appliances,3,22000,66000,Male
+100980,29-03-2024,Customer_113,Laptop,Electronics,2,55000,110000,Female
+100981,30-03-2024,Customer_50,Jeans,Fashion,5,2500,12500,Male
+100982,30-03-2024,Customer_167,Headphones,Electronics,1,2500,2500,Female
+100983,30-03-2024,Customer_252,Shoes,Fashion,1,3000,3000,Female
+100984,30-03-2024,Customer_295,Microwave,Home Appliances,2,12000,24000,Male
+100985,30-03-2024,Customer_243,Washing Machine,Home Appliances,4,22000,88000,Male
+100986,30-03-2024,Customer_229,T-Shirt,Fashion,3,1200,3600,Male
+100987,30-03-2024,Customer_246,Headphones,Electronics,2,2500,5000,Female
+100988,30-03-2024,Customer_346,Washing Machine,Home Appliances,1,22000,22000,Male
+100989,30-03-2024,Customer_176,T-Shirt,Fashion,2,1200,2400,Male
+100990,30-03-2024,Customer_261,Microwave,Home Appliances,5,12000,60000,Male
+100991,30-03-2024,Customer_81,Book,Stationery,3,500,1500,Male
+100992,30-03-2024,Customer_75,Book,Stationery,4,500,2000,Female
+100993,30-03-2024,Customer_71,Laptop,Electronics,2,55000,110000,Male
+100994,30-03-2024,Customer_199,Headphones,Electronics,4,2500,10000,Female
+100995,31-03-2024,Customer_309,Laptop,Electronics,3,55000,165000,Male
+100996,31-03-2024,Customer_145,Washing Machine,Home Appliances,4,22000,88000,Male
+100997,31-03-2024,Customer_25,Mobile,Electronics,2,15000,30000,Male
+100998,31-03-2024,Customer_298,T-Shirt,Fashion,3,1200,3600,Female
+100999,31-03-2024,Customer_48,Laptop,Electronics,1,55000,55000,Female
+101000,31-03-2024,Customer_24,Washing Machine,Home Appliances,3,22000,66000,Female
+101001,31-03-2024,Customer_94,Mixer Grinder,Home Appliances,2,4500,9000,Male
+101002,31-03-2024,Customer_267,Shoes,Fashion,4,3000,12000,Female
+101003,01-04-2024,Customer_19,Shoes,Fashion,1,3000,3000,Male
+101004,01-04-2024,Customer_252,Jeans,Fashion,4,2500,10000,Male
+101005,01-04-2024,Customer_327,Microwave,Home Appliances,5,12000,60000,Female
+101006,01-04-2024,Customer_326,Headphones,Electronics,1,2500,2500,Female
+101007,01-04-2024,Customer_185,Laptop,Electronics,5,55000,275000,Male
+101008,01-04-2024,Customer_209,Laptop,Electronics,3,55000,165000,Male
+101009,01-04-2024,Customer_117,T-Shirt,Fashion,3,1200,3600,Female
+101010,01-04-2024,Customer_233,Mixer Grinder,Home Appliances,3,4500,13500,Male
+101011,02-04-2024,Customer_279,Jeans,Fashion,3,2500,7500,Male
+101012,02-04-2024,Customer_227,T-Shirt,Fashion,2,1200,2400,Male
+101013,02-04-2024,Customer_244,Mixer Grinder,Home Appliances,1,4500,4500,Female
+101014,02-04-2024,Customer_65,Book,Stationery,4,500,2000,Female
+101015,02-04-2024,Customer_144,Shoes,Fashion,2,3000,6000,Male
+101016,02-04-2024,Customer_42,Washing Machine,Home Appliances,5,22000,110000,Female
+101017,02-04-2024,Customer_74,Mobile,Electronics,4,15000,60000,Female
+101018,02-04-2024,Customer_210,Book,Stationery,1,500,500,Male
+101019,02-04-2024,Customer_237,Mobile,Electronics,2,15000,30000,Male
+101020,03-04-2024,Customer_19,Book,Stationery,2,500,1000,Female
+101021,03-04-2024,Customer_321,Shoes,Fashion,4,3000,12000,Female
+101022,03-04-2024,Customer_72,T-Shirt,Fashion,4,1200,4800,Female
+101023,03-04-2024,Customer_340,Shoes,Fashion,1,3000,3000,Female
+101024,03-04-2024,Customer_230,T-Shirt,Fashion,2,1200,2400,Female
+101025,03-04-2024,Customer_170,T-Shirt,Fashion,5,1200,6000,Male
+101026,03-04-2024,Customer_154,Jeans,Fashion,2,2500,5000,Female
+101027,03-04-2024,Customer_272,T-Shirt,Fashion,1,1200,1200,Female
+101028,03-04-2024,Customer_273,Mixer Grinder,Home Appliances,5,4500,22500,Male
+101029,03-04-2024,Customer_97,Book,Stationery,2,500,1000,Male
+101030,03-04-2024,Customer_72,Laptop,Electronics,3,55000,165000,Female
+101031,03-04-2024,Customer_135,T-Shirt,Fashion,5,1200,6000,Male
+101032,04-04-2024,Customer_97,Microwave,Home Appliances,4,12000,48000,Female
+101033,04-04-2024,Customer_335,Mixer Grinder,Home Appliances,1,4500,4500,Male
+101034,05-04-2024,Customer_341,Washing Machine,Home Appliances,5,22000,110000,Male
+101035,05-04-2024,Customer_132,T-Shirt,Fashion,4,1200,4800,Male
+101036,05-04-2024,Customer_41,Laptop,Electronics,1,55000,55000,Female
+101037,05-04-2024,Customer_40,Book,Stationery,5,500,2500,Female
+101038,05-04-2024,Customer_284,Laptop,Electronics,3,55000,165000,Male
+101039,05-04-2024,Customer_4,Washing Machine,Home Appliances,3,22000,66000,Female
+101040,05-04-2024,Customer_280,Mixer Grinder,Home Appliances,4,4500,18000,Male
+101041,05-04-2024,Customer_71,Shoes,Fashion,5,3000,15000,Female
+101042,05-04-2024,Customer_264,Washing Machine,Home Appliances,3,22000,66000,Female
+101043,05-04-2024,Customer_175,Mixer Grinder,Home Appliances,5,4500,22500,Female
+101044,05-04-2024,Customer_84,Mixer Grinder,Home Appliances,5,4500,22500,Male
+101045,05-04-2024,Customer_310,T-Shirt,Fashion,4,1200,4800,Male
+101046,06-04-2024,Customer_271,Washing Machine,Home Appliances,4,22000,88000,Female
+101047,06-04-2024,Customer_23,Jeans,Fashion,1,2500,2500,Female
+101048,06-04-2024,Customer_252,Laptop,Electronics,4,55000,220000,Male
+101049,06-04-2024,Customer_293,Microwave,Home Appliances,3,12000,36000,Male
+101050,06-04-2024,Customer_311,T-Shirt,Fashion,4,1200,4800,Female
+101051,06-04-2024,Customer_283,Jeans,Fashion,1,2500,2500,Female
+101052,06-04-2024,Customer_202,Laptop,Electronics,1,55000,55000,Female
+101053,07-04-2024,Customer_193,Book,Stationery,5,500,2500,Male
+101054,07-04-2024,Customer_80,Jeans,Fashion,4,2500,10000,Female
+101055,07-04-2024,Customer_199,Washing Machine,Home Appliances,5,22000,110000,Male
+101056,07-04-2024,Customer_318,Headphones,Electronics,5,2500,12500,Male
+101057,07-04-2024,Customer_3,Mixer Grinder,Home Appliances,5,4500,22500,Female
+101058,07-04-2024,Customer_151,T-Shirt,Fashion,2,1200,2400,Female
+101059,08-04-2024,Customer_83,Microwave,Home Appliances,1,12000,12000,Female
+101060,08-04-2024,Customer_187,Microwave,Home Appliances,5,12000,60000,Female
+101061,08-04-2024,Customer_166,Mobile,Electronics,3,15000,45000,Male
+101062,08-04-2024,Customer_319,Microwave,Home Appliances,2,12000,24000,Male
+101063,08-04-2024,Customer_12,Headphones,Electronics,4,2500,10000,Female
+101064,08-04-2024,Customer_330,Laptop,Electronics,4,55000,220000,Male
+101065,08-04-2024,Customer_325,Washing Machine,Home Appliances,5,22000,110000,Female
+101066,09-04-2024,Customer_237,Microwave,Home Appliances,3,12000,36000,Male
+101067,09-04-2024,Customer_51,Washing Machine,Home Appliances,2,22000,44000,Female
+101068,09-04-2024,Customer_324,T-Shirt,Fashion,5,1200,6000,Female
+101069,09-04-2024,Customer_210,Mixer Grinder,Home Appliances,3,4500,13500,Female
+101070,09-04-2024,Customer_37,Book,Stationery,1,500,500,Male
+101071,09-04-2024,Customer_194,Shoes,Fashion,1,3000,3000,Male
+101072,09-04-2024,Customer_109,Washing Machine,Home Appliances,2,22000,44000,Male
+101073,09-04-2024,Customer_190,Mixer Grinder,Home Appliances,4,4500,18000,Female
+101074,09-04-2024,Customer_201,Laptop,Electronics,1,55000,55000,Male
+101075,09-04-2024,Customer_9,Shoes,Fashion,5,3000,15000,Female
+101076,09-04-2024,Customer_346,Headphones,Electronics,5,2500,12500,Female
+101077,09-04-2024,Customer_40,Washing Machine,Home Appliances,2,22000,44000,Male
+101078,09-04-2024,Customer_324,Laptop,Electronics,4,55000,220000,Female
+101079,09-04-2024,Customer_161,Headphones,Electronics,3,2500,7500,Male
+101080,09-04-2024,Customer_162,Mixer Grinder,Home Appliances,2,4500,9000,Female
+101081,09-04-2024,Customer_129,T-Shirt,Fashion,3,1200,3600,Female
+101082,10-04-2024,Customer_36,Mobile,Electronics,3,15000,45000,Male
+101083,10-04-2024,Customer_33,T-Shirt,Fashion,3,1200,3600,Male
+101084,10-04-2024,Customer_145,Book,Stationery,2,500,1000,Male
+101085,10-04-2024,Customer_293,Jeans,Fashion,1,2500,2500,Female
+101086,10-04-2024,Customer_313,T-Shirt,Fashion,5,1200,6000,Female
+101087,11-04-2024,Customer_7,Mixer Grinder,Home Appliances,1,4500,4500,Male
+101088,11-04-2024,Customer_221,Laptop,Electronics,5,55000,275000,Female
+101089,11-04-2024,Customer_125,T-Shirt,Fashion,5,1200,6000,Female
+101090,11-04-2024,Customer_280,Shoes,Fashion,4,3000,12000,Male
+101091,11-04-2024,Customer_18,Jeans,Fashion,4,2500,10000,Female
+101092,11-04-2024,Customer_76,Mixer Grinder,Home Appliances,3,4500,13500,Male
+101093,11-04-2024,Customer_141,Microwave,Home Appliances,1,12000,12000,Male
+101094,12-04-2024,Customer_66,Microwave,Home Appliances,4,12000,48000,Male
+101095,12-04-2024,Customer_213,T-Shirt,Fashion,2,1200,2400,Female
+101096,12-04-2024,Customer_350,Laptop,Electronics,4,55000,220000,Female
+101097,12-04-2024,Customer_30,Headphones,Electronics,5,2500,12500,Female
+101098,12-04-2024,Customer_142,Mobile,Electronics,4,15000,60000,Female
+101099,12-04-2024,Customer_188,Mobile,Electronics,2,15000,30000,Male
+101100,13-04-2024,Customer_180,Microwave,Home Appliances,3,12000,36000,Male
+101101,13-04-2024,Customer_10,Book,Stationery,2,500,1000,Male
+101102,13-04-2024,Customer_106,Book,Stationery,4,500,2000,Male
+101103,13-04-2024,Customer_202,Microwave,Home Appliances,1,12000,12000,Female
+101104,13-04-2024,Customer_19,Shoes,Fashion,4,3000,12000,Male
+101105,13-04-2024,Customer_174,Mixer Grinder,Home Appliances,1,4500,4500,Male
+101106,13-04-2024,Customer_343,Mixer Grinder,Home Appliances,1,4500,4500,Male
+101107,13-04-2024,Customer_216,Headphones,Electronics,1,2500,2500,Female
+101108,13-04-2024,Customer_342,Microwave,Home Appliances,2,12000,24000,Male
+101109,13-04-2024,Customer_25,Book,Stationery,5,500,2500,Female
+101110,13-04-2024,Customer_152,Microwave,Home Appliances,5,12000,60000,Male
+101111,13-04-2024,Customer_316,Laptop,Electronics,4,55000,220000,Female
+101112,14-04-2024,Customer_191,T-Shirt,Fashion,1,1200,1200,Female
+101113,14-04-2024,Customer_344,T-Shirt,Fashion,3,1200,3600,Female
+101114,14-04-2024,Customer_328,Mobile,Electronics,2,15000,30000,Female
+101115,14-04-2024,Customer_293,Laptop,Electronics,1,55000,55000,Female
+101116,14-04-2024,Customer_123,Book,Stationery,5,500,2500,Male
+101117,14-04-2024,Customer_341,Headphones,Electronics,4,2500,10000,Male
+101118,14-04-2024,Customer_309,Laptop,Electronics,1,55000,55000,Male
+101119,14-04-2024,Customer_316,Laptop,Electronics,3,55000,165000,Female
+101120,14-04-2024,Customer_80,Mixer Grinder,Home Appliances,3,4500,13500,Male
+101121,15-04-2024,Customer_153,Washing Machine,Home Appliances,5,22000,110000,Male
+101122,15-04-2024,Customer_231,T-Shirt,Fashion,4,1200,4800,Male
+101123,15-04-2024,Customer_197,T-Shirt,Fashion,4,1200,4800,Male
+101124,15-04-2024,Customer_114,Shoes,Fashion,4,3000,12000,Male
+101125,15-04-2024,Customer_38,Washing Machine,Home Appliances,3,22000,66000,Male
+101126,15-04-2024,Customer_145,Headphones,Electronics,4,2500,10000,Female
+101127,15-04-2024,Customer_341,T-Shirt,Fashion,5,1200,6000,Female
+101128,15-04-2024,Customer_99,Washing Machine,Home Appliances,4,22000,88000,Male
+101129,15-04-2024,Customer_164,Mixer Grinder,Home Appliances,4,4500,18000,Female
+101130,15-04-2024,Customer_104,Headphones,Electronics,3,2500,7500,Male
+101131,15-04-2024,Customer_210,Book,Stationery,5,500,2500,Female
+101132,15-04-2024,Customer_344,Mobile,Electronics,3,15000,45000,Male
+101133,15-04-2024,Customer_304,Mobile,Electronics,1,15000,15000,Male
+101134,16-04-2024,Customer_228,Jeans,Fashion,3,2500,7500,Female
+101135,16-04-2024,Customer_267,Washing Machine,Home Appliances,1,22000,22000,Male
+101136,16-04-2024,Customer_41,Laptop,Electronics,4,55000,220000,Male
+101137,16-04-2024,Customer_336,Shoes,Fashion,3,3000,9000,Male
+101138,16-04-2024,Customer_3,Jeans,Fashion,5,2500,12500,Male
+101139,16-04-2024,Customer_213,Book,Stationery,2,500,1000,Female
+101140,16-04-2024,Customer_248,T-Shirt,Fashion,3,1200,3600,Female
+101141,16-04-2024,Customer_144,Laptop,Electronics,3,55000,165000,Male
+101142,16-04-2024,Customer_318,Mobile,Electronics,1,15000,15000,Female
+101143,17-04-2024,Customer_166,Microwave,Home Appliances,1,12000,12000,Male
+101144,17-04-2024,Customer_101,Laptop,Electronics,3,55000,165000,Female
+101145,17-04-2024,Customer_17,Book,Stationery,5,500,2500,Male
+101146,17-04-2024,Customer_278,Headphones,Electronics,1,2500,2500,Male
+101147,17-04-2024,Customer_176,T-Shirt,Fashion,1,1200,1200,Female
+101148,17-04-2024,Customer_301,Microwave,Home Appliances,1,12000,12000,Male
+101149,17-04-2024,Customer_199,Book,Stationery,5,500,2500,Female
+101150,17-04-2024,Customer_312,Headphones,Electronics,5,2500,12500,Female
+101151,17-04-2024,Customer_193,Shoes,Fashion,5,3000,15000,Male
+101152,17-04-2024,Customer_86,Jeans,Fashion,2,2500,5000,Male
+101153,17-04-2024,Customer_166,Laptop,Electronics,2,55000,110000,Female
+101154,17-04-2024,Customer_158,Jeans,Fashion,5,2500,12500,Female
+101155,17-04-2024,Customer_317,Microwave,Home Appliances,2,12000,24000,Male
+101156,18-04-2024,Customer_249,Laptop,Electronics,1,55000,55000,Female
+101157,18-04-2024,Customer_268,T-Shirt,Fashion,3,1200,3600,Male
+101158,18-04-2024,Customer_47,T-Shirt,Fashion,1,1200,1200,Male
+101159,18-04-2024,Customer_242,Mobile,Electronics,1,15000,15000,Female
+101160,18-04-2024,Customer_263,T-Shirt,Fashion,4,1200,4800,Male
+101161,18-04-2024,Customer_285,Laptop,Electronics,3,55000,165000,Male
+101162,18-04-2024,Customer_320,Laptop,Electronics,3,55000,165000,Male
+101163,18-04-2024,Customer_196,Jeans,Fashion,1,2500,2500,Female
+101164,19-04-2024,Customer_323,Laptop,Electronics,5,55000,275000,Male
+101165,19-04-2024,Customer_200,Mixer Grinder,Home Appliances,3,4500,13500,Male
+101166,19-04-2024,Customer_324,T-Shirt,Fashion,1,1200,1200,Female
+101167,19-04-2024,Customer_279,Jeans,Fashion,1,2500,2500,Female
+101168,19-04-2024,Customer_251,Laptop,Electronics,5,55000,275000,Female
+101169,19-04-2024,Customer_179,Book,Stationery,1,500,500,Female
+101170,19-04-2024,Customer_318,Headphones,Electronics,3,2500,7500,Male
+101171,19-04-2024,Customer_197,Book,Stationery,1,500,500,Male
+101172,19-04-2024,Customer_44,Shoes,Fashion,5,3000,15000,Male
+101173,19-04-2024,Customer_244,Washing Machine,Home Appliances,5,22000,110000,Female
+101174,19-04-2024,Customer_54,Jeans,Fashion,2,2500,5000,Female
+101175,19-04-2024,Customer_338,Mobile,Electronics,5,15000,75000,Female
+101176,19-04-2024,Customer_193,Microwave,Home Appliances,4,12000,48000,Female
+101177,19-04-2024,Customer_231,Jeans,Fashion,3,2500,7500,Male
+101178,20-04-2024,Customer_130,Microwave,Home Appliances,2,12000,24000,Female
+101179,20-04-2024,Customer_151,T-Shirt,Fashion,1,1200,1200,Male
+101180,20-04-2024,Customer_201,Mixer Grinder,Home Appliances,5,4500,22500,Male
+101181,20-04-2024,Customer_338,Shoes,Fashion,4,3000,12000,Male
+101182,20-04-2024,Customer_84,Mixer Grinder,Home Appliances,1,4500,4500,Female
+101183,20-04-2024,Customer_270,Mobile,Electronics,3,15000,45000,Female
+101184,20-04-2024,Customer_210,Mobile,Electronics,1,15000,15000,Female
+101185,21-04-2024,Customer_113,Washing Machine,Home Appliances,5,22000,110000,Male
+101186,21-04-2024,Customer_267,Mixer Grinder,Home Appliances,3,4500,13500,Female
+101187,21-04-2024,Customer_150,Laptop,Electronics,1,55000,55000,Male
+101188,21-04-2024,Customer_18,Shoes,Fashion,5,3000,15000,Male
+101189,21-04-2024,Customer_327,Headphones,Electronics,3,2500,7500,Female
+101190,21-04-2024,Customer_236,Laptop,Electronics,5,55000,275000,Male
+101191,21-04-2024,Customer_225,Headphones,Electronics,1,2500,2500,Male
+101192,21-04-2024,Customer_280,Book,Stationery,5,500,2500,Female
+101193,21-04-2024,Customer_48,Mixer Grinder,Home Appliances,4,4500,18000,Female
+101194,21-04-2024,Customer_161,Mobile,Electronics,3,15000,45000,Male
+101195,21-04-2024,Customer_132,Washing Machine,Home Appliances,4,22000,88000,Female
+101196,21-04-2024,Customer_34,Headphones,Electronics,3,2500,7500,Male
+101197,21-04-2024,Customer_325,Headphones,Electronics,2,2500,5000,Female
+101198,22-04-2024,Customer_275,Microwave,Home Appliances,5,12000,60000,Male
+101199,22-04-2024,Customer_138,Shoes,Fashion,2,3000,6000,Male
+101200,22-04-2024,Customer_74,Jeans,Fashion,5,2500,12500,Female
+101201,22-04-2024,Customer_140,Microwave,Home Appliances,3,12000,36000,Male
+101202,22-04-2024,Customer_296,Washing Machine,Home Appliances,1,22000,22000,Male
+101203,22-04-2024,Customer_175,Jeans,Fashion,1,2500,2500,Male
+101204,22-04-2024,Customer_236,T-Shirt,Fashion,1,1200,1200,Female
+101205,22-04-2024,Customer_320,Jeans,Fashion,2,2500,5000,Male
+101206,22-04-2024,Customer_139,Jeans,Fashion,4,2500,10000,Female
+101207,22-04-2024,Customer_284,Book,Stationery,3,500,1500,Male
+101208,22-04-2024,Customer_348,Jeans,Fashion,4,2500,10000,Female
+101209,22-04-2024,Customer_291,Jeans,Fashion,4,2500,10000,Female
+101210,22-04-2024,Customer_66,Laptop,Electronics,3,55000,165000,Male
+101211,23-04-2024,Customer_87,Laptop,Electronics,4,55000,220000,Female
+101212,23-04-2024,Customer_191,Headphones,Electronics,5,2500,12500,Female
+101213,23-04-2024,Customer_85,Mobile,Electronics,2,15000,30000,Male
+101214,23-04-2024,Customer_166,T-Shirt,Fashion,5,1200,6000,Male
+101215,23-04-2024,Customer_88,Book,Stationery,2,500,1000,Male
+101216,23-04-2024,Customer_16,Laptop,Electronics,2,55000,110000,Female
+101217,23-04-2024,Customer_124,Headphones,Electronics,4,2500,10000,Male
+101218,23-04-2024,Customer_203,Jeans,Fashion,3,2500,7500,Female
+101219,23-04-2024,Customer_18,Laptop,Electronics,5,55000,275000,Male
+101220,23-04-2024,Customer_111,Mixer Grinder,Home Appliances,5,4500,22500,Male
+101221,23-04-2024,Customer_99,Microwave,Home Appliances,4,12000,48000,Female
+101222,23-04-2024,Customer_180,Laptop,Electronics,4,55000,220000,Male
+101223,23-04-2024,Customer_299,Washing Machine,Home Appliances,5,22000,110000,Male
+101224,23-04-2024,Customer_295,Laptop,Electronics,5,55000,275000,Male
+101225,24-04-2024,Customer_219,Headphones,Electronics,5,2500,12500,Male
+101226,24-04-2024,Customer_75,Mobile,Electronics,1,15000,15000,Male
+101227,24-04-2024,Customer_61,T-Shirt,Fashion,5,1200,6000,Male
+101228,24-04-2024,Customer_332,Shoes,Fashion,1,3000,3000,Female
+101229,24-04-2024,Customer_10,Jeans,Fashion,3,2500,7500,Male
+101230,25-04-2024,Customer_161,Mixer Grinder,Home Appliances,1,4500,4500,Male
+101231,25-04-2024,Customer_30,Mixer Grinder,Home Appliances,2,4500,9000,Female
+101232,25-04-2024,Customer_207,T-Shirt,Fashion,3,1200,3600,Female
+101233,25-04-2024,Customer_187,Microwave,Home Appliances,4,12000,48000,Male
+101234,25-04-2024,Customer_62,Jeans,Fashion,1,2500,2500,Male
+101235,25-04-2024,Customer_318,T-Shirt,Fashion,1,1200,1200,Female
+101236,25-04-2024,Customer_276,Jeans,Fashion,4,2500,10000,Female
+101237,25-04-2024,Customer_28,Mobile,Electronics,4,15000,60000,Male
+101238,25-04-2024,Customer_94,T-Shirt,Fashion,1,1200,1200,Female
+101239,25-04-2024,Customer_212,Laptop,Electronics,1,55000,55000,Female
+101240,25-04-2024,Customer_253,Microwave,Home Appliances,5,12000,60000,Female
+101241,25-04-2024,Customer_327,Laptop,Electronics,4,55000,220000,Female
+101242,25-04-2024,Customer_336,Microwave,Home Appliances,2,12000,24000,Male
+101243,25-04-2024,Customer_53,Microwave,Home Appliances,5,12000,60000,Male
+101244,25-04-2024,Customer_156,Jeans,Fashion,5,2500,12500,Female
+101245,25-04-2024,Customer_70,Book,Stationery,1,500,500,Male
+101246,25-04-2024,Customer_156,Jeans,Fashion,4,2500,10000,Male
+101247,25-04-2024,Customer_52,Laptop,Electronics,2,55000,110000,Male
+101248,25-04-2024,Customer_14,Shoes,Fashion,3,3000,9000,Male
+101249,25-04-2024,Customer_1,Microwave,Home Appliances,3,12000,36000,Male
+101250,26-04-2024,Customer_53,Jeans,Fashion,2,2500,5000,Female
+101251,26-04-2024,Customer_130,Washing Machine,Home Appliances,1,22000,22000,Male
+101252,26-04-2024,Customer_70,Microwave,Home Appliances,3,12000,36000,Female
+101253,26-04-2024,Customer_112,T-Shirt,Fashion,2,1200,2400,Female
+101254,26-04-2024,Customer_47,T-Shirt,Fashion,3,1200,3600,Female
+101255,26-04-2024,Customer_119,Washing Machine,Home Appliances,2,22000,44000,Female
+101256,26-04-2024,Customer_346,Mixer Grinder,Home Appliances,5,4500,22500,Male
+101257,26-04-2024,Customer_329,Jeans,Fashion,5,2500,12500,Female
+101258,27-04-2024,Customer_283,T-Shirt,Fashion,5,1200,6000,Female
+101259,27-04-2024,Customer_48,Laptop,Electronics,5,55000,275000,Male
+101260,27-04-2024,Customer_198,Jeans,Fashion,1,2500,2500,Male
+101261,27-04-2024,Customer_53,Jeans,Fashion,3,2500,7500,Female
+101262,27-04-2024,Customer_88,Mobile,Electronics,2,15000,30000,Male
+101263,27-04-2024,Customer_256,Headphones,Electronics,4,2500,10000,Male
+101264,27-04-2024,Customer_86,Book,Stationery,5,500,2500,Male
+101265,28-04-2024,Customer_205,Book,Stationery,5,500,2500,Female
+101266,28-04-2024,Customer_156,Microwave,Home Appliances,2,12000,24000,Male
+101267,28-04-2024,Customer_319,T-Shirt,Fashion,1,1200,1200,Female
+101268,28-04-2024,Customer_332,T-Shirt,Fashion,3,1200,3600,Female
+101269,28-04-2024,Customer_290,Jeans,Fashion,5,2500,12500,Male
+101270,28-04-2024,Customer_226,Microwave,Home Appliances,4,12000,48000,Male
+101271,29-04-2024,Customer_141,Laptop,Electronics,3,55000,165000,Male
+101272,29-04-2024,Customer_240,Laptop,Electronics,4,55000,220000,Male
+101273,29-04-2024,Customer_216,Laptop,Electronics,5,55000,275000,Male
+101274,29-04-2024,Customer_185,Laptop,Electronics,1,55000,55000,Female
+101275,29-04-2024,Customer_338,Jeans,Fashion,2,2500,5000,Female
+101276,30-04-2024,Customer_204,Laptop,Electronics,2,55000,110000,Male
+101277,30-04-2024,Customer_150,Shoes,Fashion,1,3000,3000,Male
+101278,30-04-2024,Customer_282,Mobile,Electronics,4,15000,60000,Female
+101279,30-04-2024,Customer_258,Laptop,Electronics,2,55000,110000,Female
+101280,30-04-2024,Customer_182,Mixer Grinder,Home Appliances,2,4500,9000,Male
+101281,30-04-2024,Customer_316,T-Shirt,Fashion,5,1200,6000,Female
+101282,30-04-2024,Customer_81,Shoes,Fashion,4,3000,12000,Female
+101283,30-04-2024,Customer_148,T-Shirt,Fashion,1,1200,1200,Male
+101284,30-04-2024,Customer_259,T-Shirt,Fashion,5,1200,6000,Female
+101285,01-05-2024,Customer_92,Shoes,Fashion,5,3000,15000,Female
+101286,01-05-2024,Customer_185,Jeans,Fashion,1,2500,2500,Male
+101287,01-05-2024,Customer_177,Jeans,Fashion,2,2500,5000,Female
+101288,01-05-2024,Customer_38,Jeans,Fashion,5,2500,12500,Male
+101289,01-05-2024,Customer_134,Microwave,Home Appliances,2,12000,24000,Female
+101290,01-05-2024,Customer_50,Jeans,Fashion,1,2500,2500,Male
+101291,01-05-2024,Customer_145,Jeans,Fashion,4,2500,10000,Female
+101292,01-05-2024,Customer_45,Headphones,Electronics,4,2500,10000,Female
+101293,01-05-2024,Customer_92,Microwave,Home Appliances,2,12000,24000,Female
+101294,01-05-2024,Customer_115,Headphones,Electronics,4,2500,10000,Male
+101295,01-05-2024,Customer_177,Book,Stationery,1,500,500,Female
+101296,02-05-2024,Customer_315,T-Shirt,Fashion,1,1200,1200,Female
+101297,02-05-2024,Customer_110,Shoes,Fashion,3,3000,9000,Female
+101298,02-05-2024,Customer_50,Shoes,Fashion,1,3000,3000,Male
+101299,02-05-2024,Customer_335,Mobile,Electronics,3,15000,45000,Female
+101300,02-05-2024,Customer_41,Jeans,Fashion,3,2500,7500,Male
+101301,02-05-2024,Customer_94,Jeans,Fashion,1,2500,2500,Male
+101302,02-05-2024,Customer_106,Book,Stationery,4,500,2000,Female
+101303,02-05-2024,Customer_139,Mobile,Electronics,2,15000,30000,Female
+101304,02-05-2024,Customer_251,Microwave,Home Appliances,1,12000,12000,Male
+101305,02-05-2024,Customer_154,Mobile,Electronics,5,15000,75000,Female
+101306,02-05-2024,Customer_137,Shoes,Fashion,4,3000,12000,Male
+101307,02-05-2024,Customer_212,Book,Stationery,1,500,500,Male
+101308,02-05-2024,Customer_250,Washing Machine,Home Appliances,4,22000,88000,Male
+101309,02-05-2024,Customer_151,Headphones,Electronics,2,2500,5000,Female
+101310,03-05-2024,Customer_85,Microwave,Home Appliances,3,12000,36000,Male
+101311,03-05-2024,Customer_342,T-Shirt,Fashion,4,1200,4800,Female
+101312,03-05-2024,Customer_254,T-Shirt,Fashion,1,1200,1200,Female
+101313,03-05-2024,Customer_14,Headphones,Electronics,2,2500,5000,Female
+101314,03-05-2024,Customer_25,Mixer Grinder,Home Appliances,1,4500,4500,Male
+101315,03-05-2024,Customer_332,Book,Stationery,2,500,1000,Male
+101316,03-05-2024,Customer_23,Mixer Grinder,Home Appliances,4,4500,18000,Male
+101317,04-05-2024,Customer_207,T-Shirt,Fashion,4,1200,4800,Female
+101318,04-05-2024,Customer_268,Headphones,Electronics,5,2500,12500,Male
+101319,04-05-2024,Customer_318,Microwave,Home Appliances,1,12000,12000,Male
+101320,04-05-2024,Customer_202,Microwave,Home Appliances,1,12000,12000,Female
+101321,04-05-2024,Customer_347,Shoes,Fashion,4,3000,12000,Male
+101322,04-05-2024,Customer_254,Laptop,Electronics,3,55000,165000,Female
+101323,04-05-2024,Customer_284,T-Shirt,Fashion,5,1200,6000,Female
+101324,04-05-2024,Customer_139,Book,Stationery,2,500,1000,Male
+101325,04-05-2024,Customer_240,Mobile,Electronics,5,15000,75000,Female
+101326,04-05-2024,Customer_231,Shoes,Fashion,2,3000,6000,Male
+101327,04-05-2024,Customer_83,Mobile,Electronics,3,15000,45000,Female
+101328,05-05-2024,Customer_321,Headphones,Electronics,3,2500,7500,Female
+101329,05-05-2024,Customer_141,Headphones,Electronics,1,2500,2500,Female
+101330,05-05-2024,Customer_39,T-Shirt,Fashion,4,1200,4800,Male
+101331,05-05-2024,Customer_227,Mixer Grinder,Home Appliances,5,4500,22500,Male
+101332,05-05-2024,Customer_296,Shoes,Fashion,3,3000,9000,Male
+101333,05-05-2024,Customer_56,Mobile,Electronics,5,15000,75000,Male
+101334,05-05-2024,Customer_241,Microwave,Home Appliances,2,12000,24000,Male
+101335,05-05-2024,Customer_143,Shoes,Fashion,1,3000,3000,Male
+101336,06-05-2024,Customer_36,Laptop,Electronics,4,55000,220000,Male
+101337,06-05-2024,Customer_336,Mixer Grinder,Home Appliances,5,4500,22500,Female
+101338,06-05-2024,Customer_326,Laptop,Electronics,1,55000,55000,Female
+101339,06-05-2024,Customer_156,Mobile,Electronics,4,15000,60000,Female
+101340,06-05-2024,Customer_109,Washing Machine,Home Appliances,2,22000,44000,Male
+101341,06-05-2024,Customer_201,Book,Stationery,2,500,1000,Female
+101342,06-05-2024,Customer_102,Mixer Grinder,Home Appliances,3,4500,13500,Female
+101343,06-05-2024,Customer_313,Washing Machine,Home Appliances,5,22000,110000,Male
+101344,06-05-2024,Customer_238,Jeans,Fashion,5,2500,12500,Female
+101345,06-05-2024,Customer_237,Laptop,Electronics,2,55000,110000,Female
+101346,07-05-2024,Customer_349,Washing Machine,Home Appliances,4,22000,88000,Male
+101347,07-05-2024,Customer_19,Washing Machine,Home Appliances,1,22000,22000,Male
+101348,07-05-2024,Customer_209,Washing Machine,Home Appliances,5,22000,110000,Female
+101349,07-05-2024,Customer_82,Headphones,Electronics,4,2500,10000,Female
+101350,07-05-2024,Customer_158,Microwave,Home Appliances,5,12000,60000,Female
+101351,07-05-2024,Customer_198,Mixer Grinder,Home Appliances,2,4500,9000,Male
+101352,07-05-2024,Customer_28,Washing Machine,Home Appliances,3,22000,66000,Male
+101353,07-05-2024,Customer_150,Headphones,Electronics,3,2500,7500,Female
+101354,07-05-2024,Customer_79,Jeans,Fashion,1,2500,2500,Male
+101355,07-05-2024,Customer_84,Book,Stationery,2,500,1000,Male
+101356,07-05-2024,Customer_35,Book,Stationery,4,500,2000,Male
+101357,07-05-2024,Customer_158,Shoes,Fashion,3,3000,9000,Male
+101358,07-05-2024,Customer_171,Washing Machine,Home Appliances,2,22000,44000,Female
+101359,07-05-2024,Customer_243,Headphones,Electronics,4,2500,10000,Male
+101360,08-05-2024,Customer_69,Laptop,Electronics,4,55000,220000,Male
+101361,08-05-2024,Customer_297,Shoes,Fashion,1,3000,3000,Female
+101362,08-05-2024,Customer_109,Microwave,Home Appliances,1,12000,12000,Male
+101363,08-05-2024,Customer_87,Mobile,Electronics,5,15000,75000,Female
+101364,08-05-2024,Customer_35,Mobile,Electronics,3,15000,45000,Female
+101365,08-05-2024,Customer_56,Book,Stationery,3,500,1500,Male
+101366,08-05-2024,Customer_320,Book,Stationery,4,500,2000,Female
+101367,08-05-2024,Customer_187,Mobile,Electronics,3,15000,45000,Male
+101368,08-05-2024,Customer_260,Washing Machine,Home Appliances,4,22000,88000,Male
+101369,08-05-2024,Customer_71,Jeans,Fashion,1,2500,2500,Female
+101370,08-05-2024,Customer_193,Mobile,Electronics,2,15000,30000,Female
+101371,08-05-2024,Customer_148,Shoes,Fashion,3,3000,9000,Female
+101372,09-05-2024,Customer_86,Laptop,Electronics,1,55000,55000,Female
+101373,09-05-2024,Customer_198,Microwave,Home Appliances,5,12000,60000,Male
+101374,09-05-2024,Customer_243,Mobile,Electronics,5,15000,75000,Female
+101375,09-05-2024,Customer_286,Mobile,Electronics,1,15000,15000,Male
+101376,09-05-2024,Customer_311,Jeans,Fashion,2,2500,5000,Male
+101377,09-05-2024,Customer_92,Headphones,Electronics,5,2500,12500,Female
+101378,09-05-2024,Customer_236,T-Shirt,Fashion,5,1200,6000,Male
+101379,09-05-2024,Customer_198,T-Shirt,Fashion,1,1200,1200,Female
+101380,09-05-2024,Customer_346,Shoes,Fashion,1,3000,3000,Male
+101381,09-05-2024,Customer_148,T-Shirt,Fashion,4,1200,4800,Female
+101382,10-05-2024,Customer_310,Shoes,Fashion,4,3000,12000,Female
+101383,10-05-2024,Customer_114,Washing Machine,Home Appliances,1,22000,22000,Male
+101384,10-05-2024,Customer_278,Mobile,Electronics,4,15000,60000,Male
+101385,10-05-2024,Customer_299,Jeans,Fashion,2,2500,5000,Female
+101386,10-05-2024,Customer_96,Mobile,Electronics,1,15000,15000,Male
+101387,10-05-2024,Customer_312,Mixer Grinder,Home Appliances,5,4500,22500,Male
+101388,10-05-2024,Customer_295,Headphones,Electronics,3,2500,7500,Male
+101389,10-05-2024,Customer_51,Mobile,Electronics,4,15000,60000,Female
+101390,10-05-2024,Customer_23,T-Shirt,Fashion,3,1200,3600,Male
+101391,10-05-2024,Customer_175,Microwave,Home Appliances,3,12000,36000,Male
+101392,10-05-2024,Customer_49,Microwave,Home Appliances,5,12000,60000,Female
+101393,10-05-2024,Customer_239,T-Shirt,Fashion,5,1200,6000,Female
+101394,10-05-2024,Customer_8,Washing Machine,Home Appliances,3,22000,66000,Male
+101395,10-05-2024,Customer_184,Laptop,Electronics,5,55000,275000,Male
+101396,11-05-2024,Customer_292,T-Shirt,Fashion,4,1200,4800,Female
+101397,11-05-2024,Customer_115,Microwave,Home Appliances,1,12000,12000,Female
+101398,11-05-2024,Customer_152,Headphones,Electronics,2,2500,5000,Female
+101399,11-05-2024,Customer_306,Book,Stationery,3,500,1500,Male
+101400,11-05-2024,Customer_241,Laptop,Electronics,5,55000,275000,Male
+101401,11-05-2024,Customer_233,Washing Machine,Home Appliances,5,22000,110000,Male
+101402,11-05-2024,Customer_146,Jeans,Fashion,4,2500,10000,Female
+101403,11-05-2024,Customer_116,Book,Stationery,4,500,2000,Male
+101404,11-05-2024,Customer_294,T-Shirt,Fashion,2,1200,2400,Female
+101405,11-05-2024,Customer_273,Laptop,Electronics,2,55000,110000,Female
+101406,11-05-2024,Customer_119,Jeans,Fashion,1,2500,2500,Male
+101407,12-05-2024,Customer_76,Mixer Grinder,Home Appliances,3,4500,13500,Female
+101408,12-05-2024,Customer_162,Microwave,Home Appliances,3,12000,36000,Female
+101409,12-05-2024,Customer_130,Headphones,Electronics,2,2500,5000,Female
+101410,12-05-2024,Customer_88,Laptop,Electronics,2,55000,110000,Female
+101411,12-05-2024,Customer_110,Headphones,Electronics,2,2500,5000,Female
+101412,12-05-2024,Customer_304,Shoes,Fashion,2,3000,6000,Male
+101413,12-05-2024,Customer_110,Washing Machine,Home Appliances,3,22000,66000,Female
+101414,12-05-2024,Customer_146,T-Shirt,Fashion,5,1200,6000,Female
+101415,12-05-2024,Customer_161,Washing Machine,Home Appliances,3,22000,66000,Female
+101416,12-05-2024,Customer_75,Jeans,Fashion,5,2500,12500,Male
+101417,12-05-2024,Customer_27,Washing Machine,Home Appliances,2,22000,44000,Female
+101418,12-05-2024,Customer_226,Washing Machine,Home Appliances,1,22000,22000,Female
+101419,12-05-2024,Customer_36,T-Shirt,Fashion,3,1200,3600,Female
+101420,12-05-2024,Customer_344,Mobile,Electronics,5,15000,75000,Male
+101421,12-05-2024,Customer_273,Book,Stationery,2,500,1000,Female
+101422,12-05-2024,Customer_65,Mixer Grinder,Home Appliances,5,4500,22500,Female
+101423,13-05-2024,Customer_148,Book,Stationery,4,500,2000,Female
+101424,13-05-2024,Customer_85,Headphones,Electronics,3,2500,7500,Female
+101425,13-05-2024,Customer_350,Washing Machine,Home Appliances,2,22000,44000,Male
+101426,13-05-2024,Customer_4,Mixer Grinder,Home Appliances,3,4500,13500,Male
+101427,13-05-2024,Customer_150,Shoes,Fashion,2,3000,6000,Female
+101428,13-05-2024,Customer_313,Book,Stationery,5,500,2500,Male
+101429,13-05-2024,Customer_169,Shoes,Fashion,2,3000,6000,Male
+101430,13-05-2024,Customer_143,Shoes,Fashion,2,3000,6000,Male
+101431,13-05-2024,Customer_341,Microwave,Home Appliances,5,12000,60000,Female
+101432,13-05-2024,Customer_157,Mixer Grinder,Home Appliances,4,4500,18000,Male
+101433,13-05-2024,Customer_320,Microwave,Home Appliances,5,12000,60000,Female
+101434,13-05-2024,Customer_30,Jeans,Fashion,3,2500,7500,Male
+101435,14-05-2024,Customer_91,T-Shirt,Fashion,1,1200,1200,Male
+101436,14-05-2024,Customer_64,Headphones,Electronics,3,2500,7500,Female
+101437,14-05-2024,Customer_164,Headphones,Electronics,1,2500,2500,Male
+101438,14-05-2024,Customer_88,T-Shirt,Fashion,2,1200,2400,Female
+101439,14-05-2024,Customer_339,Washing Machine,Home Appliances,1,22000,22000,Male
+101440,14-05-2024,Customer_218,Washing Machine,Home Appliances,2,22000,44000,Female
+101441,14-05-2024,Customer_198,T-Shirt,Fashion,5,1200,6000,Male
+101442,14-05-2024,Customer_340,Washing Machine,Home Appliances,2,22000,44000,Female
+101443,14-05-2024,Customer_85,Microwave,Home Appliances,5,12000,60000,Male
+101444,14-05-2024,Customer_199,Book,Stationery,2,500,1000,Female
+101445,14-05-2024,Customer_222,Mobile,Electronics,1,15000,15000,Female
+101446,14-05-2024,Customer_25,Washing Machine,Home Appliances,2,22000,44000,Female
+101447,14-05-2024,Customer_7,Microwave,Home Appliances,2,12000,24000,Male
+101448,14-05-2024,Customer_169,Shoes,Fashion,4,3000,12000,Male
+101449,14-05-2024,Customer_347,Mixer Grinder,Home Appliances,1,4500,4500,Male
+101450,14-05-2024,Customer_92,Jeans,Fashion,4,2500,10000,Female
+101451,15-05-2024,Customer_276,Book,Stationery,3,500,1500,Male
+101452,15-05-2024,Customer_273,T-Shirt,Fashion,4,1200,4800,Male
+101453,15-05-2024,Customer_194,Laptop,Electronics,3,55000,165000,Male
+101454,15-05-2024,Customer_243,Mixer Grinder,Home Appliances,2,4500,9000,Female
+101455,15-05-2024,Customer_77,T-Shirt,Fashion,3,1200,3600,Male
+101456,15-05-2024,Customer_168,Mixer Grinder,Home Appliances,1,4500,4500,Female
+101457,15-05-2024,Customer_69,Washing Machine,Home Appliances,4,22000,88000,Male
+101458,15-05-2024,Customer_13,Shoes,Fashion,4,3000,12000,Male
+101459,15-05-2024,Customer_348,Mixer Grinder,Home Appliances,4,4500,18000,Female
+101460,15-05-2024,Customer_154,Jeans,Fashion,3,2500,7500,Female
+101461,15-05-2024,Customer_163,Mobile,Electronics,4,15000,60000,Female
+101462,15-05-2024,Customer_10,Mixer Grinder,Home Appliances,2,4500,9000,Male
+101463,15-05-2024,Customer_304,Mixer Grinder,Home Appliances,1,4500,4500,Male
+101464,15-05-2024,Customer_335,Mobile,Electronics,5,15000,75000,Female
+101465,16-05-2024,Customer_308,Jeans,Fashion,5,2500,12500,Female
+101466,16-05-2024,Customer_213,Shoes,Fashion,2,3000,6000,Male
+101467,16-05-2024,Customer_84,Laptop,Electronics,2,55000,110000,Female
+101468,16-05-2024,Customer_290,Mobile,Electronics,1,15000,15000,Male
+101469,16-05-2024,Customer_114,Laptop,Electronics,2,55000,110000,Female
+101470,16-05-2024,Customer_22,Washing Machine,Home Appliances,4,22000,88000,Male
+101471,16-05-2024,Customer_329,Headphones,Electronics,2,2500,5000,Male
+101472,16-05-2024,Customer_252,Jeans,Fashion,2,2500,5000,Male
+101473,16-05-2024,Customer_82,Jeans,Fashion,1,2500,2500,Female
+101474,16-05-2024,Customer_226,Mixer Grinder,Home Appliances,5,4500,22500,Female
+101475,16-05-2024,Customer_95,Book,Stationery,5,500,2500,Female
+101476,17-05-2024,Customer_291,Headphones,Electronics,5,2500,12500,Male
+101477,17-05-2024,Customer_2,Shoes,Fashion,1,3000,3000,Female
+101478,17-05-2024,Customer_264,Mobile,Electronics,5,15000,75000,Female
+101479,17-05-2024,Customer_159,Laptop,Electronics,4,55000,220000,Male
+101480,17-05-2024,Customer_30,Mixer Grinder,Home Appliances,5,4500,22500,Female
+101481,17-05-2024,Customer_26,Microwave,Home Appliances,5,12000,60000,Female
+101482,17-05-2024,Customer_49,Headphones,Electronics,4,2500,10000,Female
+101483,17-05-2024,Customer_237,Book,Stationery,3,500,1500,Male
+101484,17-05-2024,Customer_48,Headphones,Electronics,1,2500,2500,Male
+101485,17-05-2024,Customer_350,Mobile,Electronics,2,15000,30000,Female
+101486,17-05-2024,Customer_115,Mixer Grinder,Home Appliances,1,4500,4500,Female
+101487,17-05-2024,Customer_274,Washing Machine,Home Appliances,5,22000,110000,Female
+101488,17-05-2024,Customer_24,T-Shirt,Fashion,1,1200,1200,Female
+101489,18-05-2024,Customer_317,Jeans,Fashion,3,2500,7500,Female
+101490,18-05-2024,Customer_264,Mixer Grinder,Home Appliances,3,4500,13500,Female
+101491,18-05-2024,Customer_81,Microwave,Home Appliances,1,12000,12000,Female
+101492,18-05-2024,Customer_33,Headphones,Electronics,1,2500,2500,Female
+101493,18-05-2024,Customer_125,Shoes,Fashion,2,3000,6000,Male
+101494,18-05-2024,Customer_6,Book,Stationery,4,500,2000,Male
+101495,18-05-2024,Customer_347,Jeans,Fashion,1,2500,2500,Female
+101496,18-05-2024,Customer_72,Shoes,Fashion,2,3000,6000,Male
+101497,18-05-2024,Customer_177,Microwave,Home Appliances,4,12000,48000,Female
+101498,18-05-2024,Customer_312,Jeans,Fashion,1,2500,2500,Female
+101499,18-05-2024,Customer_149,Mixer Grinder,Home Appliances,3,4500,13500,Female
+101500,18-05-2024,Customer_251,Shoes,Fashion,3,3000,9000,Male
+101501,18-05-2024,Customer_22,Washing Machine,Home Appliances,4,22000,88000,Male
+101502,19-05-2024,Customer_117,Book,Stationery,4,500,2000,Female
+101503,19-05-2024,Customer_141,Microwave,Home Appliances,4,12000,48000,Male
+101504,19-05-2024,Customer_334,Mixer Grinder,Home Appliances,3,4500,13500,Male
+101505,19-05-2024,Customer_86,Washing Machine,Home Appliances,5,22000,110000,Female
+101506,19-05-2024,Customer_231,Jeans,Fashion,1,2500,2500,Male
+101507,19-05-2024,Customer_93,Headphones,Electronics,2,2500,5000,Male
+101508,19-05-2024,Customer_126,Book,Stationery,5,500,2500,Male
+101509,19-05-2024,Customer_74,Washing Machine,Home Appliances,2,22000,44000,Female
+101510,19-05-2024,Customer_44,Washing Machine,Home Appliances,3,22000,66000,Female
+101511,19-05-2024,Customer_296,Washing Machine,Home Appliances,4,22000,88000,Female
+101512,19-05-2024,Customer_142,Mixer Grinder,Home Appliances,2,4500,9000,Male
+101513,20-05-2024,Customer_278,Washing Machine,Home Appliances,4,22000,88000,Female
+101514,20-05-2024,Customer_67,Shoes,Fashion,5,3000,15000,Female
+101515,20-05-2024,Customer_216,Jeans,Fashion,2,2500,5000,Female
+101516,20-05-2024,Customer_310,Shoes,Fashion,2,3000,6000,Male
+101517,20-05-2024,Customer_10,T-Shirt,Fashion,1,1200,1200,Male
+101518,20-05-2024,Customer_302,T-Shirt,Fashion,3,1200,3600,Female
+101519,20-05-2024,Customer_321,Headphones,Electronics,5,2500,12500,Female
+101520,20-05-2024,Customer_203,Mixer Grinder,Home Appliances,1,4500,4500,Female
+101521,20-05-2024,Customer_230,Microwave,Home Appliances,4,12000,48000,Female
+101522,20-05-2024,Customer_310,Jeans,Fashion,1,2500,2500,Male
+101523,20-05-2024,Customer_204,Book,Stationery,3,500,1500,Female
+101524,21-05-2024,Customer_120,Jeans,Fashion,3,2500,7500,Female
+101525,21-05-2024,Customer_124,Jeans,Fashion,5,2500,12500,Male
+101526,21-05-2024,Customer_111,Jeans,Fashion,3,2500,7500,Female
+101527,21-05-2024,Customer_283,Headphones,Electronics,3,2500,7500,Female
+101528,21-05-2024,Customer_126,T-Shirt,Fashion,5,1200,6000,Male
+101529,21-05-2024,Customer_214,Washing Machine,Home Appliances,4,22000,88000,Female
+101530,21-05-2024,Customer_242,Laptop,Electronics,2,55000,110000,Female
+101531,21-05-2024,Customer_112,Microwave,Home Appliances,3,12000,36000,Male
+101532,21-05-2024,Customer_123,T-Shirt,Fashion,3,1200,3600,Male
+101533,21-05-2024,Customer_9,Mixer Grinder,Home Appliances,5,4500,22500,Female
+101534,22-05-2024,Customer_199,Headphones,Electronics,1,2500,2500,Female
+101535,22-05-2024,Customer_187,Laptop,Electronics,3,55000,165000,Female
+101536,22-05-2024,Customer_41,Washing Machine,Home Appliances,2,22000,44000,Female
+101537,22-05-2024,Customer_248,Mixer Grinder,Home Appliances,3,4500,13500,Male
+101538,22-05-2024,Customer_283,Mixer Grinder,Home Appliances,2,4500,9000,Female
+101539,22-05-2024,Customer_112,Washing Machine,Home Appliances,2,22000,44000,Female
+101540,22-05-2024,Customer_135,Washing Machine,Home Appliances,5,22000,110000,Male
+101541,22-05-2024,Customer_289,Mixer Grinder,Home Appliances,2,4500,9000,Male
+101542,23-05-2024,Customer_15,Laptop,Electronics,4,55000,220000,Male
+101543,23-05-2024,Customer_242,Microwave,Home Appliances,1,12000,12000,Female
+101544,23-05-2024,Customer_87,Laptop,Electronics,2,55000,110000,Male
+101545,23-05-2024,Customer_49,Laptop,Electronics,1,55000,55000,Male
+101546,23-05-2024,Customer_2,Washing Machine,Home Appliances,3,22000,66000,Male
+101547,23-05-2024,Customer_162,Mixer Grinder,Home Appliances,2,4500,9000,Male
+101548,23-05-2024,Customer_133,Washing Machine,Home Appliances,1,22000,22000,Male
+101549,23-05-2024,Customer_293,Microwave,Home Appliances,3,12000,36000,Male
+101550,23-05-2024,Customer_291,Headphones,Electronics,2,2500,5000,Female
+101551,24-05-2024,Customer_41,T-Shirt,Fashion,5,1200,6000,Female
+101552,24-05-2024,Customer_105,Washing Machine,Home Appliances,5,22000,110000,Female
+101553,24-05-2024,Customer_275,Shoes,Fashion,5,3000,15000,Male
+101554,24-05-2024,Customer_195,Laptop,Electronics,3,55000,165000,Female
+101555,24-05-2024,Customer_217,Book,Stationery,4,500,2000,Male
+101556,24-05-2024,Customer_215,Book,Stationery,4,500,2000,Female
+101557,25-05-2024,Customer_26,Shoes,Fashion,3,3000,9000,Male
+101558,25-05-2024,Customer_65,Shoes,Fashion,1,3000,3000,Male
+101559,25-05-2024,Customer_43,Jeans,Fashion,5,2500,12500,Male
+101560,25-05-2024,Customer_211,Laptop,Electronics,2,55000,110000,Male
+101561,25-05-2024,Customer_93,T-Shirt,Fashion,4,1200,4800,Male
+101562,25-05-2024,Customer_55,T-Shirt,Fashion,4,1200,4800,Female
+101563,25-05-2024,Customer_343,Shoes,Fashion,4,3000,12000,Female
+101564,25-05-2024,Customer_144,Laptop,Electronics,4,55000,220000,Male
+101565,25-05-2024,Customer_118,Laptop,Electronics,3,55000,165000,Male
+101566,25-05-2024,Customer_35,Book,Stationery,1,500,500,Male
+101567,25-05-2024,Customer_91,Book,Stationery,2,500,1000,Male
+101568,25-05-2024,Customer_103,Mobile,Electronics,3,15000,45000,Female
+101569,26-05-2024,Customer_341,Microwave,Home Appliances,3,12000,36000,Male
+101570,26-05-2024,Customer_348,Book,Stationery,3,500,1500,Female
+101571,26-05-2024,Customer_179,Microwave,Home Appliances,4,12000,48000,Male
+101572,26-05-2024,Customer_226,Headphones,Electronics,5,2500,12500,Female
+101573,26-05-2024,Customer_244,Laptop,Electronics,3,55000,165000,Female
+101574,26-05-2024,Customer_22,Headphones,Electronics,2,2500,5000,Male
+101575,26-05-2024,Customer_104,Headphones,Electronics,3,2500,7500,Female
+101576,26-05-2024,Customer_240,Washing Machine,Home Appliances,4,22000,88000,Female
+101577,26-05-2024,Customer_184,Mixer Grinder,Home Appliances,3,4500,13500,Female
+101578,26-05-2024,Customer_9,Mixer Grinder,Home Appliances,3,4500,13500,Male
+101579,26-05-2024,Customer_131,Shoes,Fashion,1,3000,3000,Male
+101580,26-05-2024,Customer_79,Book,Stationery,5,500,2500,Male
+101581,26-05-2024,Customer_350,Shoes,Fashion,3,3000,9000,Male
+101582,26-05-2024,Customer_200,Jeans,Fashion,3,2500,7500,Male
+101583,26-05-2024,Customer_98,Washing Machine,Home Appliances,2,22000,44000,Male
+101584,27-05-2024,Customer_47,Microwave,Home Appliances,2,12000,24000,Male
+101585,27-05-2024,Customer_4,Mixer Grinder,Home Appliances,2,4500,9000,Male
+101586,27-05-2024,Customer_303,Laptop,Electronics,2,55000,110000,Male
+101587,27-05-2024,Customer_331,Mobile,Electronics,5,15000,75000,Female
+101588,27-05-2024,Customer_146,Mobile,Electronics,4,15000,60000,Male
+101589,27-05-2024,Customer_278,Microwave,Home Appliances,5,12000,60000,Male
+101590,27-05-2024,Customer_290,Microwave,Home Appliances,4,12000,48000,Male
+101591,28-05-2024,Customer_200,Jeans,Fashion,2,2500,5000,Male
+101592,28-05-2024,Customer_152,Laptop,Electronics,1,55000,55000,Male
+101593,28-05-2024,Customer_334,Jeans,Fashion,1,2500,2500,Male
+101594,28-05-2024,Customer_96,Mobile,Electronics,1,15000,15000,Female
+101595,28-05-2024,Customer_85,Laptop,Electronics,1,55000,55000,Male
+101596,28-05-2024,Customer_167,T-Shirt,Fashion,4,1200,4800,Male
+101597,28-05-2024,Customer_228,Book,Stationery,3,500,1500,Male
+101598,28-05-2024,Customer_345,Washing Machine,Home Appliances,5,22000,110000,Female
+101599,28-05-2024,Customer_279,Laptop,Electronics,2,55000,110000,Female
+101600,28-05-2024,Customer_260,Book,Stationery,1,500,500,Female
+101601,29-05-2024,Customer_338,Microwave,Home Appliances,5,12000,60000,Male
+101602,29-05-2024,Customer_81,Microwave,Home Appliances,1,12000,12000,Female
+101603,29-05-2024,Customer_230,T-Shirt,Fashion,4,1200,4800,Male
+101604,29-05-2024,Customer_294,Book,Stationery,3,500,1500,Female
+101605,29-05-2024,Customer_302,Washing Machine,Home Appliances,5,22000,110000,Male
+101606,29-05-2024,Customer_338,Laptop,Electronics,2,55000,110000,Male
+101607,29-05-2024,Customer_245,Book,Stationery,4,500,2000,Male
+101608,29-05-2024,Customer_344,Shoes,Fashion,3,3000,9000,Male
+101609,29-05-2024,Customer_299,Mobile,Electronics,3,15000,45000,Female
+101610,30-05-2024,Customer_210,Shoes,Fashion,2,3000,6000,Male
+101611,30-05-2024,Customer_201,Jeans,Fashion,5,2500,12500,Male
+101612,30-05-2024,Customer_93,Laptop,Electronics,5,55000,275000,Male
+101613,30-05-2024,Customer_157,Washing Machine,Home Appliances,1,22000,22000,Female
+101614,30-05-2024,Customer_256,Jeans,Fashion,1,2500,2500,Male
+101615,31-05-2024,Customer_66,Mobile,Electronics,4,15000,60000,Male
+101616,31-05-2024,Customer_260,Microwave,Home Appliances,1,12000,12000,Female
+101617,31-05-2024,Customer_297,Mobile,Electronics,3,15000,45000,Female
+101618,31-05-2024,Customer_275,Shoes,Fashion,5,3000,15000,Female
+101619,31-05-2024,Customer_247,Washing Machine,Home Appliances,3,22000,66000,Female
+101620,31-05-2024,Customer_218,Shoes,Fashion,4,3000,12000,Female
+101621,31-05-2024,Customer_201,Mixer Grinder,Home Appliances,5,4500,22500,Male
+101622,31-05-2024,Customer_12,Mobile,Electronics,5,15000,75000,Male
+101623,31-05-2024,Customer_151,Jeans,Fashion,4,2500,10000,Female
+101624,31-05-2024,Customer_306,Jeans,Fashion,1,2500,2500,Male
+101625,31-05-2024,Customer_221,Headphones,Electronics,1,2500,2500,Female
+101626,31-05-2024,Customer_343,Mobile,Electronics,2,15000,30000,Male
+101627,31-05-2024,Customer_86,Washing Machine,Home Appliances,2,22000,44000,Male
+101628,31-05-2024,Customer_49,T-Shirt,Fashion,4,1200,4800,Female
+101629,01-06-2024,Customer_123,Mixer Grinder,Home Appliances,2,4500,9000,Female
+101630,01-06-2024,Customer_337,T-Shirt,Fashion,2,1200,2400,Male
+101631,01-06-2024,Customer_244,Headphones,Electronics,3,2500,7500,Female
+101632,01-06-2024,Customer_160,Laptop,Electronics,1,55000,55000,Male
+101633,01-06-2024,Customer_97,Laptop,Electronics,1,55000,55000,Male
+101634,01-06-2024,Customer_299,Mixer Grinder,Home Appliances,3,4500,13500,Female
+101635,01-06-2024,Customer_69,Mixer Grinder,Home Appliances,5,4500,22500,Male
+101636,01-06-2024,Customer_67,Book,Stationery,1,500,500,Male
+101637,01-06-2024,Customer_102,Microwave,Home Appliances,1,12000,12000,Female
+101638,01-06-2024,Customer_299,Mixer Grinder,Home Appliances,2,4500,9000,Female
+101639,01-06-2024,Customer_313,Jeans,Fashion,1,2500,2500,Male
+101640,01-06-2024,Customer_130,T-Shirt,Fashion,3,1200,3600,Female
+101641,01-06-2024,Customer_30,Book,Stationery,4,500,2000,Female
+101642,01-06-2024,Customer_223,Laptop,Electronics,3,55000,165000,Female
+101643,01-06-2024,Customer_348,T-Shirt,Fashion,1,1200,1200,Male
+101644,01-06-2024,Customer_168,Microwave,Home Appliances,1,12000,12000,Male
+101645,01-06-2024,Customer_102,Mobile,Electronics,4,15000,60000,Female
+101646,01-06-2024,Customer_241,Shoes,Fashion,5,3000,15000,Female
+101647,02-06-2024,Customer_206,Jeans,Fashion,5,2500,12500,Male
+101648,02-06-2024,Customer_240,Laptop,Electronics,1,55000,55000,Male
+101649,02-06-2024,Customer_322,Jeans,Fashion,1,2500,2500,Female
+101650,02-06-2024,Customer_312,Book,Stationery,2,500,1000,Female
+101651,02-06-2024,Customer_110,T-Shirt,Fashion,4,1200,4800,Female
+101652,02-06-2024,Customer_151,Book,Stationery,4,500,2000,Female
+101653,02-06-2024,Customer_68,Mixer Grinder,Home Appliances,4,4500,18000,Male
+101654,02-06-2024,Customer_50,Mixer Grinder,Home Appliances,3,4500,13500,Female
+101655,02-06-2024,Customer_40,Book,Stationery,4,500,2000,Male
+101656,02-06-2024,Customer_116,Washing Machine,Home Appliances,2,22000,44000,Female
+101657,02-06-2024,Customer_141,Headphones,Electronics,4,2500,10000,Female
+101658,03-06-2024,Customer_50,Headphones,Electronics,2,2500,5000,Male
+101659,03-06-2024,Customer_13,Laptop,Electronics,4,55000,220000,Female
+101660,03-06-2024,Customer_214,Headphones,Electronics,1,2500,2500,Female
+101661,03-06-2024,Customer_305,Laptop,Electronics,5,55000,275000,Female
+101662,03-06-2024,Customer_22,Laptop,Electronics,1,55000,55000,Male
+101663,03-06-2024,Customer_8,Book,Stationery,1,500,500,Male
+101664,03-06-2024,Customer_251,Jeans,Fashion,1,2500,2500,Female
+101665,03-06-2024,Customer_262,Laptop,Electronics,2,55000,110000,Male
+101666,03-06-2024,Customer_264,Jeans,Fashion,5,2500,12500,Male
+101667,03-06-2024,Customer_154,T-Shirt,Fashion,4,1200,4800,Male
+101668,04-06-2024,Customer_239,Headphones,Electronics,3,2500,7500,Male
+101669,04-06-2024,Customer_266,Mixer Grinder,Home Appliances,2,4500,9000,Male
+101670,04-06-2024,Customer_305,Mobile,Electronics,3,15000,45000,Female
+101671,04-06-2024,Customer_98,Book,Stationery,4,500,2000,Female
+101672,04-06-2024,Customer_275,Microwave,Home Appliances,5,12000,60000,Male
+101673,04-06-2024,Customer_233,Book,Stationery,5,500,2500,Female
+101674,04-06-2024,Customer_195,Mixer Grinder,Home Appliances,5,4500,22500,Male
+101675,04-06-2024,Customer_254,T-Shirt,Fashion,5,1200,6000,Female
+101676,04-06-2024,Customer_161,Laptop,Electronics,5,55000,275000,Female
+101677,04-06-2024,Customer_276,Mobile,Electronics,1,15000,15000,Female
+101678,04-06-2024,Customer_36,Washing Machine,Home Appliances,1,22000,22000,Male
+101679,04-06-2024,Customer_79,Jeans,Fashion,5,2500,12500,Female
+101680,04-06-2024,Customer_316,Mobile,Electronics,2,15000,30000,Female
+101681,04-06-2024,Customer_22,Headphones,Electronics,2,2500,5000,Male
+101682,04-06-2024,Customer_93,Book,Stationery,4,500,2000,Male
+101683,05-06-2024,Customer_271,Washing Machine,Home Appliances,4,22000,88000,Female
+101684,05-06-2024,Customer_238,Washing Machine,Home Appliances,1,22000,22000,Male
+101685,05-06-2024,Customer_17,Book,Stationery,2,500,1000,Female
+101686,05-06-2024,Customer_324,Washing Machine,Home Appliances,2,22000,44000,Male
+101687,05-06-2024,Customer_153,T-Shirt,Fashion,3,1200,3600,Female
+101688,05-06-2024,Customer_164,Book,Stationery,4,500,2000,Female
+101689,05-06-2024,Customer_340,Book,Stationery,2,500,1000,Male
+101690,05-06-2024,Customer_187,Jeans,Fashion,1,2500,2500,Male
+101691,05-06-2024,Customer_221,Jeans,Fashion,1,2500,2500,Female
+101692,05-06-2024,Customer_43,Microwave,Home Appliances,2,12000,24000,Male
+101693,05-06-2024,Customer_350,Shoes,Fashion,4,3000,12000,Male
+101694,05-06-2024,Customer_190,Headphones,Electronics,3,2500,7500,Male
+101695,05-06-2024,Customer_26,Jeans,Fashion,5,2500,12500,Female
+101696,05-06-2024,Customer_138,Mixer Grinder,Home Appliances,1,4500,4500,Female
+101697,05-06-2024,Customer_287,Washing Machine,Home Appliances,4,22000,88000,Female
+101698,05-06-2024,Customer_58,Laptop,Electronics,3,55000,165000,Female
+101699,05-06-2024,Customer_158,Shoes,Fashion,4,3000,12000,Male
+101700,05-06-2024,Customer_101,Shoes,Fashion,4,3000,12000,Male
+101701,06-06-2024,Customer_216,Mobile,Electronics,3,15000,45000,Female
+101702,06-06-2024,Customer_198,Book,Stationery,3,500,1500,Female
+101703,06-06-2024,Customer_287,Mobile,Electronics,5,15000,75000,Male
+101704,06-06-2024,Customer_206,Mobile,Electronics,3,15000,45000,Female
+101705,06-06-2024,Customer_89,Washing Machine,Home Appliances,3,22000,66000,Male
+101706,06-06-2024,Customer_227,Laptop,Electronics,1,55000,55000,Female
+101707,06-06-2024,Customer_178,Washing Machine,Home Appliances,2,22000,44000,Male
+101708,06-06-2024,Customer_78,Mobile,Electronics,5,15000,75000,Female
+101709,06-06-2024,Customer_293,Jeans,Fashion,3,2500,7500,Female
+101710,06-06-2024,Customer_56,Shoes,Fashion,1,3000,3000,Female
+101711,06-06-2024,Customer_241,Book,Stationery,2,500,1000,Female
+101712,06-06-2024,Customer_18,Shoes,Fashion,5,3000,15000,Male
+101713,07-06-2024,Customer_74,Headphones,Electronics,2,2500,5000,Male
+101714,07-06-2024,Customer_185,Book,Stationery,5,500,2500,Male
+101715,07-06-2024,Customer_240,T-Shirt,Fashion,1,1200,1200,Male
+101716,07-06-2024,Customer_336,Microwave,Home Appliances,3,12000,36000,Female
+101717,07-06-2024,Customer_10,Mobile,Electronics,2,15000,30000,Male
+101718,07-06-2024,Customer_118,Mobile,Electronics,1,15000,15000,Male
+101719,07-06-2024,Customer_211,T-Shirt,Fashion,2,1200,2400,Male
+101720,07-06-2024,Customer_147,Microwave,Home Appliances,1,12000,12000,Female
+101721,07-06-2024,Customer_277,Jeans,Fashion,1,2500,2500,Male
+101722,07-06-2024,Customer_133,Headphones,Electronics,2,2500,5000,Female
+101723,08-06-2024,Customer_187,Microwave,Home Appliances,4,12000,48000,Male
+101724,08-06-2024,Customer_288,Microwave,Home Appliances,5,12000,60000,Male
+101725,08-06-2024,Customer_335,Book,Stationery,5,500,2500,Male
+101726,08-06-2024,Customer_17,Laptop,Electronics,4,55000,220000,Male
+101727,08-06-2024,Customer_335,Jeans,Fashion,2,2500,5000,Female
+101728,08-06-2024,Customer_112,Jeans,Fashion,2,2500,5000,Male
+101729,08-06-2024,Customer_208,Jeans,Fashion,2,2500,5000,Male
+101730,08-06-2024,Customer_251,Microwave,Home Appliances,1,12000,12000,Female
+101731,08-06-2024,Customer_211,T-Shirt,Fashion,4,1200,4800,Male
+101732,08-06-2024,Customer_47,T-Shirt,Fashion,2,1200,2400,Female
+101733,08-06-2024,Customer_273,Book,Stationery,5,500,2500,Female
+101734,09-06-2024,Customer_170,Book,Stationery,3,500,1500,Male
+101735,09-06-2024,Customer_275,Shoes,Fashion,4,3000,12000,Male
+101736,09-06-2024,Customer_230,Laptop,Electronics,3,55000,165000,Male
+101737,09-06-2024,Customer_128,Jeans,Fashion,4,2500,10000,Male
+101738,09-06-2024,Customer_140,Mobile,Electronics,1,15000,15000,Female
+101739,09-06-2024,Customer_76,Mixer Grinder,Home Appliances,5,4500,22500,Male
+101740,09-06-2024,Customer_75,Microwave,Home Appliances,5,12000,60000,Male
+101741,09-06-2024,Customer_196,Washing Machine,Home Appliances,3,22000,66000,Male
+101742,09-06-2024,Customer_234,Book,Stationery,1,500,500,Female
+101743,09-06-2024,Customer_200,Shoes,Fashion,4,3000,12000,Male
+101744,09-06-2024,Customer_194,Book,Stationery,2,500,1000,Male
+101745,10-06-2024,Customer_31,Microwave,Home Appliances,1,12000,12000,Male
+101746,10-06-2024,Customer_242,Mixer Grinder,Home Appliances,4,4500,18000,Male
+101747,10-06-2024,Customer_80,Laptop,Electronics,5,55000,275000,Male
+101748,10-06-2024,Customer_19,Mixer Grinder,Home Appliances,3,4500,13500,Male
+101749,10-06-2024,Customer_24,Mobile,Electronics,2,15000,30000,Male
+101750,10-06-2024,Customer_341,Mixer Grinder,Home Appliances,4,4500,18000,Male
+101751,10-06-2024,Customer_204,T-Shirt,Fashion,2,1200,2400,Female
+101752,10-06-2024,Customer_197,Washing Machine,Home Appliances,4,22000,88000,Male
+101753,10-06-2024,Customer_167,Jeans,Fashion,2,2500,5000,Female
+101754,10-06-2024,Customer_112,Book,Stationery,4,500,2000,Female
+101755,10-06-2024,Customer_106,Mobile,Electronics,3,15000,45000,Female
+101756,10-06-2024,Customer_183,Mixer Grinder,Home Appliances,5,4500,22500,Male
+101757,11-06-2024,Customer_225,Microwave,Home Appliances,3,12000,36000,Male
+101758,11-06-2024,Customer_106,Microwave,Home Appliances,4,12000,48000,Female
+101759,11-06-2024,Customer_224,Microwave,Home Appliances,3,12000,36000,Male
+101760,11-06-2024,Customer_322,Shoes,Fashion,2,3000,6000,Male
+101761,11-06-2024,Customer_11,Headphones,Electronics,2,2500,5000,Female
+101762,11-06-2024,Customer_39,Microwave,Home Appliances,4,12000,48000,Female
+101763,11-06-2024,Customer_31,Washing Machine,Home Appliances,2,22000,44000,Female
+101764,11-06-2024,Customer_155,Book,Stationery,2,500,1000,Male
+101765,11-06-2024,Customer_306,Book,Stationery,2,500,1000,Female
+101766,11-06-2024,Customer_104,T-Shirt,Fashion,1,1200,1200,Male
+101767,11-06-2024,Customer_271,Microwave,Home Appliances,5,12000,60000,Female
+101768,11-06-2024,Customer_148,Shoes,Fashion,5,3000,15000,Female
+101769,11-06-2024,Customer_81,Jeans,Fashion,3,2500,7500,Male
+101770,11-06-2024,Customer_320,Laptop,Electronics,2,55000,110000,Male
+101771,11-06-2024,Customer_39,Washing Machine,Home Appliances,3,22000,66000,Female
+101772,12-06-2024,Customer_38,Washing Machine,Home Appliances,2,22000,44000,Female
+101773,12-06-2024,Customer_309,Laptop,Electronics,5,55000,275000,Male
+101774,12-06-2024,Customer_109,Mixer Grinder,Home Appliances,4,4500,18000,Female
+101775,12-06-2024,Customer_233,Shoes,Fashion,4,3000,12000,Female
+101776,12-06-2024,Customer_301,Washing Machine,Home Appliances,1,22000,22000,Male
+101777,12-06-2024,Customer_7,T-Shirt,Fashion,2,1200,2400,Male
+101778,12-06-2024,Customer_269,Washing Machine,Home Appliances,4,22000,88000,Female
+101779,12-06-2024,Customer_288,Washing Machine,Home Appliances,1,22000,22000,Male
+101780,12-06-2024,Customer_118,Laptop,Electronics,1,55000,55000,Male
+101781,12-06-2024,Customer_214,Jeans,Fashion,2,2500,5000,Male
+101782,13-06-2024,Customer_278,Laptop,Electronics,1,55000,55000,Female
+101783,13-06-2024,Customer_90,Microwave,Home Appliances,3,12000,36000,Female
+101784,13-06-2024,Customer_141,Mixer Grinder,Home Appliances,1,4500,4500,Female
+101785,13-06-2024,Customer_14,T-Shirt,Fashion,1,1200,1200,Male
+101786,13-06-2024,Customer_63,Shoes,Fashion,3,3000,9000,Female
+101787,13-06-2024,Customer_33,Mobile,Electronics,4,15000,60000,Female
+101788,13-06-2024,Customer_255,Microwave,Home Appliances,4,12000,48000,Male
+101789,13-06-2024,Customer_138,T-Shirt,Fashion,2,1200,2400,Male
+101790,13-06-2024,Customer_261,T-Shirt,Fashion,3,1200,3600,Female
+101791,13-06-2024,Customer_136,Headphones,Electronics,1,2500,2500,Male
+101792,13-06-2024,Customer_136,Headphones,Electronics,2,2500,5000,Female
+101793,13-06-2024,Customer_104,Washing Machine,Home Appliances,2,22000,44000,Female
+101794,14-06-2024,Customer_184,T-Shirt,Fashion,5,1200,6000,Female
+101795,14-06-2024,Customer_209,Shoes,Fashion,2,3000,6000,Female
+101796,14-06-2024,Customer_159,T-Shirt,Fashion,1,1200,1200,Male
+101797,14-06-2024,Customer_270,Mixer Grinder,Home Appliances,1,4500,4500,Male
+101798,14-06-2024,Customer_183,Shoes,Fashion,2,3000,6000,Female
+101799,14-06-2024,Customer_133,Shoes,Fashion,1,3000,3000,Male
+101800,15-06-2024,Customer_102,Microwave,Home Appliances,1,12000,12000,Male
+101801,15-06-2024,Customer_330,T-Shirt,Fashion,1,1200,1200,Male
+101802,15-06-2024,Customer_55,Microwave,Home Appliances,3,12000,36000,Female
+101803,15-06-2024,Customer_75,Jeans,Fashion,3,2500,7500,Male
+101804,15-06-2024,Customer_255,Shoes,Fashion,3,3000,9000,Male
+101805,16-06-2024,Customer_245,Laptop,Electronics,1,55000,55000,Male
+101806,16-06-2024,Customer_310,Headphones,Electronics,5,2500,12500,Male
+101807,16-06-2024,Customer_154,Shoes,Fashion,2,3000,6000,Female
+101808,16-06-2024,Customer_251,Headphones,Electronics,1,2500,2500,Male
+101809,16-06-2024,Customer_214,Mixer Grinder,Home Appliances,2,4500,9000,Female
+101810,16-06-2024,Customer_326,Mobile,Electronics,2,15000,30000,Female
+101811,16-06-2024,Customer_144,Headphones,Electronics,1,2500,2500,Male
+101812,16-06-2024,Customer_141,Mobile,Electronics,3,15000,45000,Female
+101813,16-06-2024,Customer_234,Headphones,Electronics,2,2500,5000,Female
+101814,16-06-2024,Customer_213,T-Shirt,Fashion,4,1200,4800,Male
+101815,16-06-2024,Customer_48,Headphones,Electronics,5,2500,12500,Female
+101816,16-06-2024,Customer_324,Mobile,Electronics,1,15000,15000,Female
+101817,16-06-2024,Customer_227,Mobile,Electronics,4,15000,60000,Male
+101818,16-06-2024,Customer_16,Headphones,Electronics,5,2500,12500,Female
+101819,16-06-2024,Customer_137,Washing Machine,Home Appliances,2,22000,44000,Male
+101820,16-06-2024,Customer_158,Shoes,Fashion,3,3000,9000,Male
+101821,16-06-2024,Customer_227,T-Shirt,Fashion,2,1200,2400,Male
+101822,17-06-2024,Customer_93,T-Shirt,Fashion,3,1200,3600,Male
+101823,17-06-2024,Customer_72,Microwave,Home Appliances,4,12000,48000,Female
+101824,17-06-2024,Customer_154,Washing Machine,Home Appliances,5,22000,110000,Female
+101825,17-06-2024,Customer_85,Headphones,Electronics,4,2500,10000,Male
+101826,17-06-2024,Customer_128,Microwave,Home Appliances,1,12000,12000,Male
+101827,17-06-2024,Customer_48,Headphones,Electronics,3,2500,7500,Male
+101828,17-06-2024,Customer_187,Mixer Grinder,Home Appliances,4,4500,18000,Female
+101829,17-06-2024,Customer_306,Shoes,Fashion,1,3000,3000,Male
+101830,17-06-2024,Customer_111,T-Shirt,Fashion,4,1200,4800,Female
+101831,17-06-2024,Customer_310,Mixer Grinder,Home Appliances,2,4500,9000,Female
+101832,17-06-2024,Customer_303,Shoes,Fashion,3,3000,9000,Male
+101833,17-06-2024,Customer_25,Washing Machine,Home Appliances,1,22000,22000,Female
+101834,17-06-2024,Customer_130,Washing Machine,Home Appliances,2,22000,44000,Male
+101835,17-06-2024,Customer_164,Microwave,Home Appliances,2,12000,24000,Male
+101836,17-06-2024,Customer_96,Laptop,Electronics,1,55000,55000,Female
+101837,17-06-2024,Customer_220,Headphones,Electronics,2,2500,5000,Male
+101838,17-06-2024,Customer_173,Shoes,Fashion,4,3000,12000,Male
+101839,17-06-2024,Customer_328,Book,Stationery,3,500,1500,Male
+101840,18-06-2024,Customer_142,Shoes,Fashion,2,3000,6000,Female
+101841,18-06-2024,Customer_194,Book,Stationery,2,500,1000,Male
+101842,18-06-2024,Customer_339,Washing Machine,Home Appliances,3,22000,66000,Female
+101843,18-06-2024,Customer_245,Laptop,Electronics,4,55000,220000,Male
+101844,18-06-2024,Customer_153,Microwave,Home Appliances,3,12000,36000,Male
+101845,18-06-2024,Customer_133,Laptop,Electronics,3,55000,165000,Male
+101846,18-06-2024,Customer_111,Mixer Grinder,Home Appliances,1,4500,4500,Male
+101847,18-06-2024,Customer_72,Mobile,Electronics,5,15000,75000,Male
+101848,18-06-2024,Customer_240,Mobile,Electronics,5,15000,75000,Female
+101849,18-06-2024,Customer_224,Shoes,Fashion,2,3000,6000,Female
+101850,18-06-2024,Customer_153,Headphones,Electronics,1,2500,2500,Female
+101851,18-06-2024,Customer_255,Microwave,Home Appliances,4,12000,48000,Male
+101852,19-06-2024,Customer_295,Laptop,Electronics,2,55000,110000,Male
+101853,19-06-2024,Customer_44,Laptop,Electronics,1,55000,55000,Female
+101854,19-06-2024,Customer_85,Mixer Grinder,Home Appliances,1,4500,4500,Female
+101855,19-06-2024,Customer_167,Headphones,Electronics,1,2500,2500,Male
+101856,19-06-2024,Customer_174,Jeans,Fashion,5,2500,12500,Female
+101857,19-06-2024,Customer_287,Mixer Grinder,Home Appliances,3,4500,13500,Female
+101858,19-06-2024,Customer_188,Microwave,Home Appliances,2,12000,24000,Male
+101859,19-06-2024,Customer_344,Jeans,Fashion,5,2500,12500,Male
+101860,19-06-2024,Customer_29,Shoes,Fashion,3,3000,9000,Female
+101861,19-06-2024,Customer_247,T-Shirt,Fashion,4,1200,4800,Female
+101862,19-06-2024,Customer_80,Mobile,Electronics,5,15000,75000,Male
+101863,19-06-2024,Customer_252,Book,Stationery,3,500,1500,Female
+101864,19-06-2024,Customer_301,T-Shirt,Fashion,4,1200,4800,Female
+101865,19-06-2024,Customer_196,Mobile,Electronics,1,15000,15000,Female
+101866,19-06-2024,Customer_125,T-Shirt,Fashion,4,1200,4800,Female
+101867,19-06-2024,Customer_232,Mixer Grinder,Home Appliances,1,4500,4500,Male
+101868,20-06-2024,Customer_23,Mixer Grinder,Home Appliances,1,4500,4500,Female
+101869,20-06-2024,Customer_112,Shoes,Fashion,2,3000,6000,Male
+101870,20-06-2024,Customer_307,Mixer Grinder,Home Appliances,5,4500,22500,Female
+101871,20-06-2024,Customer_168,Mixer Grinder,Home Appliances,5,4500,22500,Female
+101872,20-06-2024,Customer_65,Headphones,Electronics,3,2500,7500,Female
+101873,20-06-2024,Customer_281,Book,Stationery,2,500,1000,Male
+101874,20-06-2024,Customer_91,Washing Machine,Home Appliances,4,22000,88000,Female
+101875,20-06-2024,Customer_209,T-Shirt,Fashion,5,1200,6000,Male
+101876,20-06-2024,Customer_296,Book,Stationery,1,500,500,Male
+101877,20-06-2024,Customer_153,Mixer Grinder,Home Appliances,1,4500,4500,Female
+101878,20-06-2024,Customer_300,Headphones,Electronics,3,2500,7500,Male
+101879,21-06-2024,Customer_319,Headphones,Electronics,5,2500,12500,Male
+101880,21-06-2024,Customer_106,Headphones,Electronics,1,2500,2500,Female
+101881,21-06-2024,Customer_196,Laptop,Electronics,4,55000,220000,Male
+101882,21-06-2024,Customer_5,Mixer Grinder,Home Appliances,1,4500,4500,Female
+101883,21-06-2024,Customer_61,T-Shirt,Fashion,4,1200,4800,Male
+101884,21-06-2024,Customer_156,Jeans,Fashion,4,2500,10000,Female
+101885,21-06-2024,Customer_275,Headphones,Electronics,2,2500,5000,Male
+101886,21-06-2024,Customer_25,Mobile,Electronics,3,15000,45000,Male
+101887,21-06-2024,Customer_239,Laptop,Electronics,1,55000,55000,Female
+101888,21-06-2024,Customer_167,Shoes,Fashion,3,3000,9000,Female
+101889,21-06-2024,Customer_70,Book,Stationery,5,500,2500,Male
+101890,21-06-2024,Customer_213,Microwave,Home Appliances,4,12000,48000,Male
+101891,21-06-2024,Customer_94,Mobile,Electronics,5,15000,75000,Female
+101892,21-06-2024,Customer_24,Mixer Grinder,Home Appliances,5,4500,22500,Female
+101893,21-06-2024,Customer_98,T-Shirt,Fashion,2,1200,2400,Female
+101894,21-06-2024,Customer_229,Shoes,Fashion,1,3000,3000,Female
+101895,22-06-2024,Customer_93,Washing Machine,Home Appliances,5,22000,110000,Female
+101896,22-06-2024,Customer_101,Mobile,Electronics,3,15000,45000,Female
+101897,22-06-2024,Customer_231,T-Shirt,Fashion,1,1200,1200,Male
+101898,22-06-2024,Customer_198,Book,Stationery,3,500,1500,Male
+101899,22-06-2024,Customer_143,Mixer Grinder,Home Appliances,1,4500,4500,Female
+101900,22-06-2024,Customer_36,Laptop,Electronics,5,55000,275000,Female
+101901,22-06-2024,Customer_181,Jeans,Fashion,1,2500,2500,Male
+101902,22-06-2024,Customer_320,Jeans,Fashion,4,2500,10000,Male
+101903,22-06-2024,Customer_111,Shoes,Fashion,5,3000,15000,Female
+101904,23-06-2024,Customer_209,Shoes,Fashion,5,3000,15000,Female
+101905,23-06-2024,Customer_74,Laptop,Electronics,4,55000,220000,Female
+101906,23-06-2024,Customer_130,Mobile,Electronics,5,15000,75000,Female
+101907,23-06-2024,Customer_19,T-Shirt,Fashion,2,1200,2400,Female
+101908,23-06-2024,Customer_12,Headphones,Electronics,2,2500,5000,Female
+101909,23-06-2024,Customer_157,Laptop,Electronics,4,55000,220000,Female
+101910,23-06-2024,Customer_157,Book,Stationery,1,500,500,Female
+101911,23-06-2024,Customer_294,T-Shirt,Fashion,1,1200,1200,Female
+101912,23-06-2024,Customer_47,Mixer Grinder,Home Appliances,2,4500,9000,Female
+101913,23-06-2024,Customer_338,Laptop,Electronics,5,55000,275000,Female
+101914,23-06-2024,Customer_156,Microwave,Home Appliances,5,12000,60000,Male
+101915,23-06-2024,Customer_228,Washing Machine,Home Appliances,5,22000,110000,Male
+101916,23-06-2024,Customer_249,Laptop,Electronics,5,55000,275000,Female
+101917,23-06-2024,Customer_329,T-Shirt,Fashion,4,1200,4800,Male
+101918,23-06-2024,Customer_331,Book,Stationery,4,500,2000,Male
+101919,23-06-2024,Customer_172,T-Shirt,Fashion,5,1200,6000,Female
+101920,23-06-2024,Customer_77,Mobile,Electronics,5,15000,75000,Female
+101921,24-06-2024,Customer_81,Book,Stationery,4,500,2000,Male
+101922,24-06-2024,Customer_67,Jeans,Fashion,4,2500,10000,Female
+101923,24-06-2024,Customer_231,Washing Machine,Home Appliances,3,22000,66000,Male
+101924,24-06-2024,Customer_86,Mobile,Electronics,2,15000,30000,Male
+101925,24-06-2024,Customer_93,Laptop,Electronics,4,55000,220000,Male
+101926,24-06-2024,Customer_230,Mixer Grinder,Home Appliances,3,4500,13500,Female
+101927,24-06-2024,Customer_207,Laptop,Electronics,3,55000,165000,Female
+101928,24-06-2024,Customer_248,Washing Machine,Home Appliances,3,22000,66000,Male
+101929,24-06-2024,Customer_69,Shoes,Fashion,4,3000,12000,Male
+101930,24-06-2024,Customer_299,Book,Stationery,2,500,1000,Male
+101931,24-06-2024,Customer_42,Mixer Grinder,Home Appliances,1,4500,4500,Female
+101932,24-06-2024,Customer_35,Washing Machine,Home Appliances,3,22000,66000,Female
+101933,24-06-2024,Customer_313,Microwave,Home Appliances,5,12000,60000,Male
+101934,24-06-2024,Customer_229,Laptop,Electronics,4,55000,220000,Female
+101935,25-06-2024,Customer_228,Jeans,Fashion,1,2500,2500,Female
+101936,25-06-2024,Customer_337,Book,Stationery,4,500,2000,Female
+101937,25-06-2024,Customer_205,Laptop,Electronics,4,55000,220000,Male
+101938,25-06-2024,Customer_14,Shoes,Fashion,2,3000,6000,Female
+101939,25-06-2024,Customer_270,Jeans,Fashion,4,2500,10000,Female
+101940,25-06-2024,Customer_250,Washing Machine,Home Appliances,2,22000,44000,Male
+101941,25-06-2024,Customer_177,Jeans,Fashion,2,2500,5000,Male
+101942,25-06-2024,Customer_344,Microwave,Home Appliances,1,12000,12000,Female
+101943,25-06-2024,Customer_35,Book,Stationery,3,500,1500,Female
+101944,25-06-2024,Customer_99,Mixer Grinder,Home Appliances,5,4500,22500,Female
+101945,26-06-2024,Customer_179,Headphones,Electronics,4,2500,10000,Female
+101946,26-06-2024,Customer_239,Headphones,Electronics,5,2500,12500,Female
+101947,26-06-2024,Customer_307,Headphones,Electronics,5,2500,12500,Female
+101948,26-06-2024,Customer_201,Laptop,Electronics,1,55000,55000,Male
+101949,26-06-2024,Customer_71,Mixer Grinder,Home Appliances,1,4500,4500,Female
+101950,26-06-2024,Customer_266,Book,Stationery,1,500,500,Male
+101951,26-06-2024,Customer_83,Laptop,Electronics,4,55000,220000,Female
+101952,26-06-2024,Customer_19,Microwave,Home Appliances,3,12000,36000,Male
+101953,27-06-2024,Customer_143,Book,Stationery,1,500,500,Female
+101954,27-06-2024,Customer_84,T-Shirt,Fashion,2,1200,2400,Male
+101955,27-06-2024,Customer_271,Jeans,Fashion,4,2500,10000,Male
+101956,27-06-2024,Customer_112,Shoes,Fashion,3,3000,9000,Female
+101957,27-06-2024,Customer_10,Shoes,Fashion,1,3000,3000,Male
+101958,27-06-2024,Customer_70,Washing Machine,Home Appliances,1,22000,22000,Male
+101959,27-06-2024,Customer_96,Microwave,Home Appliances,2,12000,24000,Female
+101960,27-06-2024,Customer_187,Microwave,Home Appliances,1,12000,12000,Male
+101961,27-06-2024,Customer_11,Headphones,Electronics,4,2500,10000,Male
+101962,27-06-2024,Customer_311,Book,Stationery,1,500,500,Female
+101963,27-06-2024,Customer_268,Book,Stationery,2,500,1000,Male
+101964,27-06-2024,Customer_51,T-Shirt,Fashion,3,1200,3600,Female
+101965,27-06-2024,Customer_102,Mixer Grinder,Home Appliances,4,4500,18000,Female
+101966,27-06-2024,Customer_225,Mixer Grinder,Home Appliances,3,4500,13500,Male
+101967,27-06-2024,Customer_139,Headphones,Electronics,2,2500,5000,Male
+101968,27-06-2024,Customer_302,Laptop,Electronics,3,55000,165000,Female
+101969,27-06-2024,Customer_7,Shoes,Fashion,4,3000,12000,Female
+101970,27-06-2024,Customer_214,T-Shirt,Fashion,4,1200,4800,Male
+101971,27-06-2024,Customer_318,Shoes,Fashion,1,3000,3000,Female
+101972,27-06-2024,Customer_108,Book,Stationery,1,500,500,Female
+101973,27-06-2024,Customer_5,T-Shirt,Fashion,3,1200,3600,Male
+101974,28-06-2024,Customer_8,Microwave,Home Appliances,3,12000,36000,Female
+101975,28-06-2024,Customer_187,Washing Machine,Home Appliances,1,22000,22000,Female
+101976,28-06-2024,Customer_14,Headphones,Electronics,5,2500,12500,Female
+101977,28-06-2024,Customer_212,Washing Machine,Home Appliances,4,22000,88000,Female
+101978,28-06-2024,Customer_58,Mixer Grinder,Home Appliances,1,4500,4500,Female
+101979,28-06-2024,Customer_21,Microwave,Home Appliances,2,12000,24000,Female
+101980,28-06-2024,Customer_298,Book,Stationery,5,500,2500,Female
+101981,28-06-2024,Customer_219,Shoes,Fashion,5,3000,15000,Male
+101982,28-06-2024,Customer_114,Headphones,Electronics,2,2500,5000,Female
+101983,28-06-2024,Customer_314,Laptop,Electronics,1,55000,55000,Female
+101984,28-06-2024,Customer_310,Book,Stationery,2,500,1000,Male
+101985,28-06-2024,Customer_120,Laptop,Electronics,2,55000,110000,Male
+101986,28-06-2024,Customer_13,Book,Stationery,4,500,2000,Female
+101987,29-06-2024,Customer_206,Washing Machine,Home Appliances,1,22000,22000,Male
+101988,29-06-2024,Customer_259,Washing Machine,Home Appliances,5,22000,110000,Male
+101989,29-06-2024,Customer_92,T-Shirt,Fashion,3,1200,3600,Male
+101990,29-06-2024,Customer_199,Mobile,Electronics,1,15000,15000,Female
+101991,29-06-2024,Customer_252,Laptop,Electronics,3,55000,165000,Male
+101992,29-06-2024,Customer_217,Shoes,Fashion,5,3000,15000,Female
+101993,29-06-2024,Customer_69,Mobile,Electronics,4,15000,60000,Male
+101994,29-06-2024,Customer_99,Mixer Grinder,Home Appliances,3,4500,13500,Female
+101995,29-06-2024,Customer_313,Book,Stationery,1,500,500,Female
+101996,29-06-2024,Customer_321,Mixer Grinder,Home Appliances,2,4500,9000,Female
+101997,29-06-2024,Customer_171,Jeans,Fashion,2,2500,5000,Male
+101998,29-06-2024,Customer_16,Mixer Grinder,Home Appliances,5,4500,22500,Female
+101999,29-06-2024,Customer_14,Laptop,Electronics,4,55000,220000,Male
+102000,29-06-2024,Customer_313,Book,Stationery,4,500,2000,Male
